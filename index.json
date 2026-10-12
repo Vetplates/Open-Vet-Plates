@@ -1,0 +1,6306 @@
+[
+ {
+  "id": "able/able-tplo",
+  "name": "Able TPLO",
+  "manufacturer": "Able",
+  "family": null,
+  "variants": 6,
+  "file": "implants/able/able-tplo.json"
+ },
+ {
+  "id": "able/cblo-plate",
+  "name": "CBLO plate",
+  "manufacturer": "Able",
+  "family": null,
+  "variants": 6,
+  "file": "implants/able/cblo-plate.json"
+ },
+ {
+  "id": "able/dfo-plates",
+  "name": "DFO plates",
+  "manufacturer": "Able",
+  "family": null,
+  "variants": 8,
+  "file": "implants/able/dfo-plates.json"
+ },
+ {
+  "id": "able/tplo",
+  "name": "TPLO",
+  "manufacturer": "Able",
+  "family": null,
+  "variants": 2,
+  "file": "implants/able/tplo.json"
+ },
+ {
+  "id": "ad-maiora-eu/7mm-xptta-plate",
+  "name": "7mm xPTTA plate",
+  "manufacturer": "Ad-Maiora.eu",
+  "family": null,
+  "variants": 3,
+  "file": "implants/ad-maiora-eu/7mm-xptta-plate.json"
+ },
+ {
+  "id": "ad-maiora-eu/8mm-xptta-plate",
+  "name": "8mm xPTTA plate",
+  "manufacturer": "Ad-Maiora.eu",
+  "family": null,
+  "variants": 2,
+  "file": "implants/ad-maiora-eu/8mm-xptta-plate.json"
+ },
+ {
+  "id": "ad-maiora-eu/xporous-tta-wedge",
+  "name": "xPOROUS TTA Wedge",
+  "manufacturer": "Ad-Maiora.eu",
+  "family": null,
+  "variants": 5,
+  "file": "implants/ad-maiora-eu/xporous-tta-wedge.json"
+ },
+ {
+  "id": "arthemidex/acetabular-cup-lucidi-chrono",
+  "name": "Acetabular Cup Lucidi Chrono",
+  "manufacturer": "Arthemidex",
+  "family": null,
+  "variants": 7,
+  "file": "implants/arthemidex/acetabular-cup-lucidi-chrono.json"
+ },
+ {
+  "id": "arthemidex/chrono-stem-14mm-head-shown",
+  "name": "Chrono Stem (14mm head shown)",
+  "manufacturer": "Arthemidex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthemidex/chrono-stem-14mm-head-shown.json"
+ },
+ {
+  "id": "arthemidex/femoral-stem-lucidi-chrono-17mm-head-shown",
+  "name": "Femoral Stem Lucidi Chrono (17mm head shown)",
+  "manufacturer": "Arthemidex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthemidex/femoral-stem-lucidi-chrono-17mm-head-shown.json"
+ },
+ {
+  "id": "arthrex/1-6mm-straight-plate-broad",
+  "name": "1.6mm Straight Plate Broad",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 6,
+  "file": "implants/arthrex/1-6mm-straight-plate-broad.json"
+ },
+ {
+  "id": "arthrex/1-6mm-straight-plate-std",
+  "name": "1.6mm Straight Plate Std",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 3,
+  "file": "implants/arthrex/1-6mm-straight-plate-std.json"
+ },
+ {
+  "id": "arthrex/2-0-straight-plate",
+  "name": "2.0 Straight Plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthrex/2-0-straight-plate.json"
+ },
+ {
+  "id": "arthrex/2-4-straight-plate",
+  "name": "2.4 Straight Plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthrex/2-4-straight-plate.json"
+ },
+ {
+  "id": "arthrex/3-0mm-straight-plate",
+  "name": "3.0mm Straight Plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthrex/3-0mm-straight-plate.json"
+ },
+ {
+  "id": "arthrex/3-5mm-straight-plate-broad",
+  "name": "3.5mm Straight Plate Broad",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthrex/3-5mm-straight-plate-broad.json"
+ },
+ {
+  "id": "arthrex/3-5mm-straight-plate-std",
+  "name": "3.5mm Straight Plate Std",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 10,
+  "file": "implants/arthrex/3-5mm-straight-plate-std.json"
+ },
+ {
+  "id": "arthrex/distal-femoral-fracture-plates",
+  "name": "Distal Femoral Fracture plates",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 5,
+  "file": "implants/arthrex/distal-femoral-fracture-plates.json"
+ },
+ {
+  "id": "arthrex/distal-femur-osteotomy-plate",
+  "name": "Distal Femur Osteotomy Plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 8,
+  "file": "implants/arthrex/distal-femur-osteotomy-plate.json"
+ },
+ {
+  "id": "arthrex/distal-humeral-fracture-system",
+  "name": "Distal Humeral Fracture System",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 4,
+  "file": "implants/arthrex/distal-humeral-fracture-system.json"
+ },
+ {
+  "id": "arthrex/distal-radius-plate",
+  "name": "Distal Radius plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 6,
+  "file": "implants/arthrex/distal-radius-plate.json"
+ },
+ {
+  "id": "arthrex/ilial-plates",
+  "name": "Ilial plates",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 6,
+  "file": "implants/arthrex/ilial-plates.json"
+ },
+ {
+  "id": "arthrex/mpl-tplo-plate",
+  "name": "MPL (TPLO) Plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 8,
+  "file": "implants/arthrex/mpl-tplo-plate.json"
+ },
+ {
+  "id": "arthrex/proximal-femur-plate",
+  "name": "Proximal femur plate",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 7,
+  "file": "implants/arthrex/proximal-femur-plate.json"
+ },
+ {
+  "id": "arthrex/t-plates-locking-compression",
+  "name": "T plates (Locking Compression)",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 11,
+  "file": "implants/arthrex/t-plates-locking-compression.json"
+ },
+ {
+  "id": "arthrex/tplo-internal-brace-tm",
+  "name": "TPLO Internal Brace TM",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 11,
+  "file": "implants/arthrex/tplo-internal-brace-tm.json"
+ },
+ {
+  "id": "arthrex/tplo-plate-standard",
+  "name": "TPLO Plate Standard",
+  "manufacturer": "Arthrex",
+  "family": null,
+  "variants": 2,
+  "file": "implants/arthrex/tplo-plate-standard.json"
+ },
+ {
+  "id": "bbraun-vetcare/2-0mm-pls",
+  "name": "2.0mm PLS",
+  "manufacturer": "BBraun VetCare",
+  "family": null,
+  "variants": 7,
+  "file": "implants/bbraun-vetcare/2-0mm-pls.json"
+ },
+ {
+  "id": "bbraun-vetcare/2-6mm-pls",
+  "name": "2.6mm PLS",
+  "manufacturer": "BBraun VetCare",
+  "family": null,
+  "variants": 7,
+  "file": "implants/bbraun-vetcare/2-6mm-pls.json"
+ },
+ {
+  "id": "bbraun-vetcare/3-5mm-pls",
+  "name": "3.5mm PLS",
+  "manufacturer": "BBraun VetCare",
+  "family": null,
+  "variants": 7,
+  "file": "implants/bbraun-vetcare/3-5mm-pls.json"
+ },
+ {
+  "id": "bbraun-vetcare/tplo-polyaxial-locking",
+  "name": "TPLO Polyaxial Locking",
+  "manufacturer": "BBraun VetCare",
+  "family": null,
+  "variants": 6,
+  "file": "implants/bbraun-vetcare/tplo-polyaxial-locking.json"
+ },
+ {
+  "id": "bbraun-vetcare/tta-cages-standard-cuttable",
+  "name": "TTA Cages - Standard & Cuttable",
+  "manufacturer": "BBraun VetCare",
+  "family": null,
+  "variants": 9,
+  "file": "implants/bbraun-vetcare/tta-cages-standard-cuttable.json"
+ },
+ {
+  "id": "bbraun-vetcare/tta-forked-plates",
+  "name": "TTA Forked Plates",
+  "manufacturer": "BBraun VetCare",
+  "family": null,
+  "variants": 7,
+  "file": "implants/bbraun-vetcare/tta-forked-plates.json"
+ },
+ {
+  "id": "beta-implants/ctwo-elite",
+  "name": "CTWO Elite",
+  "manufacturer": "BETA Implants",
+  "family": "CTWO Elite",
+  "variants": 9,
+  "file": "implants/beta-implants/ctwo-elite.json"
+ },
+ {
+  "id": "beta-implants/lp-1-5-elite",
+  "name": "LP 1.5 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LP 1.5 Elite",
+  "variants": 7,
+  "file": "implants/beta-implants/lp-1-5-elite.json"
+ },
+ {
+  "id": "beta-implants/lp-2-0-elite",
+  "name": "LP 2.0 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LP 2.0 Elite",
+  "variants": 8,
+  "file": "implants/beta-implants/lp-2-0-elite.json"
+ },
+ {
+  "id": "beta-implants/lp-2-4-elite",
+  "name": "LP 2.4 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LP 2.4 Elite",
+  "variants": 7,
+  "file": "implants/beta-implants/lp-2-4-elite.json"
+ },
+ {
+  "id": "beta-implants/lp-2-7-elite",
+  "name": "LP 2.7 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LP Elite",
+  "variants": 10,
+  "file": "implants/beta-implants/lp-2-7-elite.json"
+ },
+ {
+  "id": "beta-implants/lp-3-5-elite",
+  "name": "LP 3.5 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LP 3.5 Elite",
+  "variants": 9,
+  "file": "implants/beta-implants/lp-3-5-elite.json"
+ },
+ {
+  "id": "beta-implants/lpa-elite",
+  "name": "LPA Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPA Elite",
+  "variants": 9,
+  "file": "implants/beta-implants/lpa-elite.json"
+ },
+ {
+  "id": "beta-implants/lpar-elite",
+  "name": "LPAR Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPAR Elite",
+  "variants": 4,
+  "file": "implants/beta-implants/lpar-elite.json"
+ },
+ {
+  "id": "beta-implants/lpat-elite",
+  "name": "LPAT Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPAT Elite",
+  "variants": 6,
+  "file": "implants/beta-implants/lpat-elite.json"
+ },
+ {
+  "id": "beta-implants/lpb-elite",
+  "name": "LPB Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPB Elite",
+  "variants": 7,
+  "file": "implants/beta-implants/lpb-elite.json"
+ },
+ {
+  "id": "beta-implants/lpcd-elite",
+  "name": "LPCD Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPCD Elite",
+  "variants": 12,
+  "file": "implants/beta-implants/lpcd-elite.json"
+ },
+ {
+  "id": "beta-implants/lpcf-elite",
+  "name": "LPCF Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPCF Elite",
+  "variants": 3,
+  "file": "implants/beta-implants/lpcf-elite.json"
+ },
+ {
+  "id": "beta-implants/lpcm-elite",
+  "name": "LPCM Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPCM Elite",
+  "variants": 3,
+  "file": "implants/beta-implants/lpcm-elite.json"
+ },
+ {
+  "id": "beta-implants/lpcp-elite",
+  "name": "LPCP Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPCP Elite",
+  "variants": 3,
+  "file": "implants/beta-implants/lpcp-elite.json"
+ },
+ {
+  "id": "beta-implants/lpdf-elite",
+  "name": "LPDF Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPDF Elite",
+  "variants": 8,
+  "file": "implants/beta-implants/lpdf-elite.json"
+ },
+ {
+  "id": "beta-implants/lpdr-elite",
+  "name": "LPDR Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPDR Elite",
+  "variants": 6,
+  "file": "implants/beta-implants/lpdr-elite.json"
+ },
+ {
+  "id": "beta-implants/lplf-elite",
+  "name": "LPLF Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPLF Elite",
+  "variants": 12,
+  "file": "implants/beta-implants/lplf-elite.json"
+ },
+ {
+  "id": "beta-implants/lpm-elite",
+  "name": "LPM Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPM Elite",
+  "variants": 5,
+  "file": "implants/beta-implants/lpm-elite.json"
+ },
+ {
+  "id": "beta-implants/lpml-elite",
+  "name": "LPML Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPML Elite",
+  "variants": 2,
+  "file": "implants/beta-implants/lpml-elite.json"
+ },
+ {
+  "id": "beta-implants/lpp-1-5-elite",
+  "name": "LPP 1.5 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPP 1.5 Elite",
+  "variants": 7,
+  "file": "implants/beta-implants/lpp-1-5-elite.json"
+ },
+ {
+  "id": "beta-implants/lpp-2-0-elite",
+  "name": "LPP 2.0 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPP 2.0 Elite",
+  "variants": 8,
+  "file": "implants/beta-implants/lpp-2-0-elite.json"
+ },
+ {
+  "id": "beta-implants/lpp-2-4-elite",
+  "name": "LPP 2.4 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPP 2.4 Elite",
+  "variants": 8,
+  "file": "implants/beta-implants/lpp-2-4-elite.json"
+ },
+ {
+  "id": "beta-implants/lpp-2-7-elite",
+  "name": "LPP 2.7 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPP 2.7 Elite",
+  "variants": 7,
+  "file": "implants/beta-implants/lpp-2-7-elite.json"
+ },
+ {
+  "id": "beta-implants/lpp-3-5-elite",
+  "name": "LPP 3.5 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPP 3.5 Elite",
+  "variants": 14,
+  "file": "implants/beta-implants/lpp-3-5-elite.json"
+ },
+ {
+  "id": "beta-implants/lpr-elite",
+  "name": "LPR Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPR Elite",
+  "variants": 5,
+  "file": "implants/beta-implants/lpr-elite.json"
+ },
+ {
+  "id": "beta-implants/lpsf-elite",
+  "name": "LPSF Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPSF Elite",
+  "variants": 9,
+  "file": "implants/beta-implants/lpsf-elite.json"
+ },
+ {
+  "id": "beta-implants/lpt-elite",
+  "name": "LPT Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPT Elite",
+  "variants": 13,
+  "file": "implants/beta-implants/lpt-elite.json"
+ },
+ {
+  "id": "beta-implants/lptm-elite",
+  "name": "LPTM Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPTM Elite",
+  "variants": 9,
+  "file": "implants/beta-implants/lptm-elite.json"
+ },
+ {
+  "id": "beta-implants/lptr-elite",
+  "name": "LPTR Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPTR Elite",
+  "variants": 12,
+  "file": "implants/beta-implants/lptr-elite.json"
+ },
+ {
+  "id": "beta-implants/ls-2-7-elite",
+  "name": "LS 2.7 Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LS Elite",
+  "variants": 8,
+  "file": "implants/beta-implants/ls-2-7-elite.json"
+ },
+ {
+  "id": "beta-implants/partial-tarsal-arthrodesis-locking-plate-elite",
+  "name": "Partial Tarsal Arthrodesis Locking Plate Elite",
+  "manufacturer": "BETA Implants",
+  "family": "LPTP Elite",
+  "variants": 7,
+  "file": "implants/beta-implants/partial-tarsal-arthrodesis-locking-plate-elite.json"
+ },
+ {
+  "id": "beta-implants/sho-elite",
+  "name": "SHO ELITE",
+  "manufacturer": "BETA Implants",
+  "family": "SHO ELITE",
+  "variants": 6,
+  "file": "implants/beta-implants/sho-elite.json"
+ },
+ {
+  "id": "beta-implants/tplo-elite",
+  "name": "TPLO Elite",
+  "manufacturer": "BETA Implants",
+  "family": "TPLO Elite",
+  "variants": 9,
+  "file": "implants/beta-implants/tplo-elite.json"
+ },
+ {
+  "id": "beta-implants/tplom-elite",
+  "name": "TPLOm Elite",
+  "manufacturer": "BETA Implants",
+  "family": "TPLOm Elite",
+  "variants": 8,
+  "file": "implants/beta-implants/tplom-elite.json"
+ },
+ {
+  "id": "biomedtrix/bfx-acetabular-cup",
+  "name": "BFX Acetabular Cup",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 23,
+  "file": "implants/biomedtrix/bfx-acetabular-cup.json"
+ },
+ {
+  "id": "biomedtrix/bfx-acetabular-cup-small-breeds",
+  "name": "BFX Acetabular Cup - Small Breeds",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 5,
+  "file": "implants/biomedtrix/bfx-acetabular-cup-small-breeds.json"
+ },
+ {
+  "id": "biomedtrix/bfx-femoral-stem",
+  "name": "BFX Femoral Stem",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 20,
+  "file": "implants/biomedtrix/bfx-femoral-stem.json"
+ },
+ {
+  "id": "biomedtrix/bfx-ti-hip-stem",
+  "name": "BFX Ti Hip Stem",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 13,
+  "file": "implants/biomedtrix/bfx-ti-hip-stem.json"
+ },
+ {
+  "id": "biomedtrix/cfx-acetabular-cup",
+  "name": "CFX Acetabular Cup",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 13,
+  "file": "implants/biomedtrix/cfx-acetabular-cup.json"
+ },
+ {
+  "id": "biomedtrix/cfx-acetabular-cup-small-breeds",
+  "name": "CFX Acetabular Cup - Small Breeds",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 1,
+  "file": "implants/biomedtrix/cfx-acetabular-cup-small-breeds.json"
+ },
+ {
+  "id": "biomedtrix/cfx-femoral-stem",
+  "name": "CFX Femoral Stem",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 10,
+  "file": "implants/biomedtrix/cfx-femoral-stem.json"
+ },
+ {
+  "id": "biomedtrix/cfx-femoral-stem-nano",
+  "name": "CFX Femoral Stem - Nano",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 9,
+  "file": "implants/biomedtrix/cfx-femoral-stem-nano.json"
+ },
+ {
+  "id": "biomedtrix/cfx-femoral-stem-small-breeds",
+  "name": "CFX Femoral Stem - Small Breeds",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 5,
+  "file": "implants/biomedtrix/cfx-femoral-stem-small-breeds.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-3",
+  "name": "I-Loc #3",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 9,
+  "file": "implants/biomedtrix/i-loc-3.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-4",
+  "name": "I-Loc #4",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 10,
+  "file": "implants/biomedtrix/i-loc-4.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-5",
+  "name": "I-Loc #5",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 10,
+  "file": "implants/biomedtrix/i-loc-5.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-6",
+  "name": "I-Loc #6",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 7,
+  "file": "implants/biomedtrix/i-loc-6.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-7",
+  "name": "I-Loc #7",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 7,
+  "file": "implants/biomedtrix/i-loc-7.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-8",
+  "name": "I-Loc #8",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 9,
+  "file": "implants/biomedtrix/i-loc-8.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-bolt-3mm",
+  "name": "I-Loc Bolt 3mm",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 26,
+  "file": "implants/biomedtrix/i-loc-bolt-3mm.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-bolt-4mm",
+  "name": "I-Loc Bolt 4mm",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 23,
+  "file": "implants/biomedtrix/i-loc-bolt-4mm.json"
+ },
+ {
+  "id": "biomedtrix/i-loc-bolt-5mm",
+  "name": "I-Loc Bolt 5mm",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 24,
+  "file": "implants/biomedtrix/i-loc-bolt-5mm.json"
+ },
+ {
+  "id": "biomedtrix/tate-ankle",
+  "name": "TATE Ankle",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 3,
+  "file": "implants/biomedtrix/tate-ankle.json"
+ },
+ {
+  "id": "biomedtrix/tate-elbow",
+  "name": "TATE Elbow",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 3,
+  "file": "implants/biomedtrix/tate-elbow.json"
+ },
+ {
+  "id": "biomedtrix/tkr-femur",
+  "name": "TKR - Femur",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 7,
+  "file": "implants/biomedtrix/tkr-femur.json"
+ },
+ {
+  "id": "biomedtrix/tkr-tibia",
+  "name": "TKR - Tibia",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 5,
+  "file": "implants/biomedtrix/tkr-tibia.json"
+ },
+ {
+  "id": "biomedtrix/tplo-curve",
+  "name": "TPLO Curve",
+  "manufacturer": "BioMedtrix",
+  "family": null,
+  "variants": 6,
+  "file": "implants/biomedtrix/tplo-curve.json"
+ },
+ {
+  "id": "biortho/micro-locking-1-2mm-lengthening-locking-plate-titanium-3-5mm-width",
+  "name": "Micro Locking 1.2mm Lengthening Locking Plate, Titanium 3.5mm width",
+  "manufacturer": "Biortho",
+  "family": null,
+  "variants": 3,
+  "file": "implants/biortho/micro-locking-1-2mm-lengthening-locking-plate-titanium-3-5mm-width.json"
+ },
+ {
+  "id": "biortho/micro-locking-1-5mm-distal-femur-locking-plate",
+  "name": "Micro Locking 1.5mm Distal Femur Locking Plate",
+  "manufacturer": "Biortho",
+  "family": null,
+  "variants": 1,
+  "file": "implants/biortho/micro-locking-1-5mm-distal-femur-locking-plate.json"
+ },
+ {
+  "id": "biortho/micro-locking-1-5mm-lengthening-locking-plate-titanium-4mm-width",
+  "name": "Micro Locking 1.5mm Lengthening Locking Plate,Titanium 4mm width",
+  "manufacturer": "Biortho",
+  "family": null,
+  "variants": 4,
+  "file": "implants/biortho/micro-locking-1-5mm-lengthening-locking-plate-titanium-4mm-width.json"
+ },
+ {
+  "id": "biortho/micro-locking-double-t-cuttable-locking-plate",
+  "name": "Micro Locking Double T Cuttable Locking Plate",
+  "manufacturer": "Biortho",
+  "family": null,
+  "variants": 2,
+  "file": "implants/biortho/micro-locking-double-t-cuttable-locking-plate.json"
+ },
+ {
+  "id": "biortho/micro-locking-t-plates",
+  "name": "Micro Locking T-Plates",
+  "manufacturer": "Biortho",
+  "family": null,
+  "variants": 2,
+  "file": "implants/biortho/micro-locking-t-plates.json"
+ },
+ {
+  "id": "biortho/tplo",
+  "name": "TPLO",
+  "manufacturer": "Biortho",
+  "family": null,
+  "variants": 9,
+  "file": "implants/biortho/tplo.json"
+ },
+ {
+  "id": "biosurgex/2-4-multi-direction-locking-plate",
+  "name": "2.4 Multi direction locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "2.4 Multidirection locking plate",
+  "variants": 4,
+  "file": "implants/biosurgex/2-4-multi-direction-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/2-7-locking-plates",
+  "name": "2.7 Locking Plates",
+  "manufacturer": "Biosurgex",
+  "family": "2.7 Locking Plate",
+  "variants": 5,
+  "file": "implants/biosurgex/2-7-locking-plates.json"
+ },
+ {
+  "id": "biosurgex/2-7-multi-direction-spinal-plate",
+  "name": "2.7 Multi direction spinal plate",
+  "manufacturer": "Biosurgex",
+  "family": "2.7 Multi direction spinal plate",
+  "variants": 4,
+  "file": "implants/biosurgex/2-7-multi-direction-spinal-plate.json"
+ },
+ {
+  "id": "biosurgex/3-5-locking-plates",
+  "name": "3.5 Locking Plates\t\t\t",
+  "manufacturer": "Biosurgex",
+  "family": "3.5 Locking Plates",
+  "variants": 5,
+  "file": "implants/biosurgex/3-5-locking-plates.json"
+ },
+ {
+  "id": "biosurgex/3-5-multi-direction-spinal-plate",
+  "name": "3.5 Multi Direction Spinal Plate ",
+  "manufacturer": "Biosurgex",
+  "family": "3.5 Multidirection Spinal Plate ",
+  "variants": 4,
+  "file": "implants/biosurgex/3-5-multi-direction-spinal-plate.json"
+ },
+ {
+  "id": "biosurgex/cuttable-locking-plate",
+  "name": "Cuttable Locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "Support straight locking plate 2.0",
+  "variants": 2,
+  "file": "implants/biosurgex/cuttable-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/distal-radius-locking-plate",
+  "name": "Distal Radius Locking Plate",
+  "manufacturer": "Biosurgex",
+  "family": "Distal Radius Locking Plate",
+  "variants": 8,
+  "file": "implants/biosurgex/distal-radius-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/l-locking-plate",
+  "name": "L-Locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "L-Locking plate",
+  "variants": 1,
+  "file": "implants/biosurgex/l-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/locking-tplo",
+  "name": "Locking TPLO",
+  "manufacturer": "Biosurgex",
+  "family": "TPLO plates",
+  "variants": 7,
+  "file": "implants/biosurgex/locking-tplo.json"
+ },
+ {
+  "id": "biosurgex/maxima-tplo",
+  "name": "Maxima TPLO",
+  "manufacturer": "Biosurgex",
+  "family": "TPLO plates",
+  "variants": 9,
+  "file": "implants/biosurgex/maxima-tplo.json"
+ },
+ {
+  "id": "biosurgex/reconstruction-locking-plate",
+  "name": "Reconstruction Locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "Reconstruction Locking plate",
+  "variants": 1,
+  "file": "implants/biosurgex/reconstruction-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/straight-locking-plate",
+  "name": "Straight locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "Straight locking plate",
+  "variants": 3,
+  "file": "implants/biosurgex/straight-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/support-straight-locking-plate",
+  "name": "Support straight locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "Support straight locking plate",
+  "variants": 5,
+  "file": "implants/biosurgex/support-straight-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/supracondylar-locking-plate",
+  "name": "Supracondylar Locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "Supracondylar Locking plates",
+  "variants": 5,
+  "file": "implants/biosurgex/supracondylar-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/t2-locking-plate",
+  "name": "T2 - Locking plate",
+  "manufacturer": "Biosurgex",
+  "family": "T2 - Locking plate",
+  "variants": 1,
+  "file": "implants/biosurgex/t2-locking-plate.json"
+ },
+ {
+  "id": "biosurgex/tta-locking-plates",
+  "name": "TTA Locking Plates",
+  "manufacturer": "Biosurgex",
+  "family": "POROUS TTA",
+  "variants": 7,
+  "file": "implants/biosurgex/tta-locking-plates.json"
+ },
+ {
+  "id": "biosurgex/tta-standard-plate",
+  "name": "TTA standard plate",
+  "manufacturer": "Biosurgex",
+  "family": "POROUS TTA",
+  "variants": 8,
+  "file": "implants/biosurgex/tta-standard-plate.json"
+ },
+ {
+  "id": "biosurgex/tta-wedge",
+  "name": "TTA wedge",
+  "manufacturer": "Biosurgex",
+  "family": "POROUSE TTA",
+  "variants": 9,
+  "file": "implants/biosurgex/tta-wedge.json"
+ },
+ {
+  "id": "blue-surgical-instruments/1-5mm-biological-healing-titanium-locking-plates",
+  "name": "1.5mm Biological Healing Titanium Locking Plates",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 7,
+  "file": "implants/blue-surgical-instruments/1-5mm-biological-healing-titanium-locking-plates.json"
+ },
+ {
+  "id": "blue-surgical-instruments/1-5mm-locking-plate-titanium",
+  "name": "1.5mm Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 9,
+  "file": "implants/blue-surgical-instruments/1-5mm-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/2-0mm-biological-healing-titanium-locking-plates",
+  "name": "2.0mm Biological Healing Titanium Locking Plates",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 7,
+  "file": "implants/blue-surgical-instruments/2-0mm-biological-healing-titanium-locking-plates.json"
+ },
+ {
+  "id": "blue-surgical-instruments/2-0mm-locking-plate-titanium",
+  "name": "2.0mm Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 9,
+  "file": "implants/blue-surgical-instruments/2-0mm-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/2-4mm-biological-healing-titanium-locking-plates",
+  "name": "2.4mm Biological Healing Titanium Locking Plates",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 7,
+  "file": "implants/blue-surgical-instruments/2-4mm-biological-healing-titanium-locking-plates.json"
+ },
+ {
+  "id": "blue-surgical-instruments/2-4mm-locking-plate-titanium",
+  "name": "2.4mm Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 9,
+  "file": "implants/blue-surgical-instruments/2-4mm-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/2-7mm-biological-healing-titanium-locking-plates",
+  "name": "2.7mm Biological Healing Titanium Locking Plates",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 7,
+  "file": "implants/blue-surgical-instruments/2-7mm-biological-healing-titanium-locking-plates.json"
+ },
+ {
+  "id": "blue-surgical-instruments/2-7mm-locking-plate-titanium",
+  "name": "2.7mm Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 9,
+  "file": "implants/blue-surgical-instruments/2-7mm-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/3-5mm-biological-healing-titanium-locking-plates",
+  "name": "3.5mm Biological Healing Titanium Locking Plates",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 7,
+  "file": "implants/blue-surgical-instruments/3-5mm-biological-healing-titanium-locking-plates.json"
+ },
+ {
+  "id": "blue-surgical-instruments/3-5mm-broad-locking-plate-titanium",
+  "name": "3.5mm Broad  Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 9,
+  "file": "implants/blue-surgical-instruments/3-5mm-broad-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/3-5mm-locking-plate-titanium",
+  "name": "3.5mm Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 9,
+  "file": "implants/blue-surgical-instruments/3-5mm-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/acetabular-locking-plate-titanium",
+  "name": "Acetabular Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 4,
+  "file": "implants/blue-surgical-instruments/acetabular-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/dpo-locking-plates",
+  "name": "DPO locking plates",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 4,
+  "file": "implants/blue-surgical-instruments/dpo-locking-plates.json"
+ },
+ {
+  "id": "blue-surgical-instruments/pancarpal-arthrodesis-plate-locking",
+  "name": "Pancarpal arthrodesis plate (locking)",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 3,
+  "file": "implants/blue-surgical-instruments/pancarpal-arthrodesis-plate-locking.json"
+ },
+ {
+  "id": "blue-surgical-instruments/pantarsal-arthrodesis-plate-locking",
+  "name": "Pantarsal arthrodesis plate (locking)",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 4,
+  "file": "implants/blue-surgical-instruments/pantarsal-arthrodesis-plate-locking.json"
+ },
+ {
+  "id": "blue-surgical-instruments/supracondylar-locking-plate",
+  "name": "Supracondylar Locking Plate",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 5,
+  "file": "implants/blue-surgical-instruments/supracondylar-locking-plate.json"
+ },
+ {
+  "id": "blue-surgical-instruments/t-locking-plate-titanium",
+  "name": "T Locking Plate Titanium",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 10,
+  "file": "implants/blue-surgical-instruments/t-locking-plate-titanium.json"
+ },
+ {
+  "id": "blue-surgical-instruments/tplo",
+  "name": "TPLO",
+  "manufacturer": "Blue Surgical instruments",
+  "family": null,
+  "variants": 7,
+  "file": "implants/blue-surgical-instruments/tplo.json"
+ },
+ {
+  "id": "bluesao/biological-cup-angle-of-lateral-opening-dia-25mm",
+  "name": "Biological Cup- Angle of Lateral Opening (Dia. 25mm）",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 15,
+  "file": "implants/bluesao/biological-cup-angle-of-lateral-opening-dia-25mm.json"
+ },
+ {
+  "id": "bluesao/bionic-acetabular-cup-cemented",
+  "name": "Bionic Acetabular Cup Cemented",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 4,
+  "file": "implants/bluesao/bionic-acetabular-cup-cemented.json"
+ },
+ {
+  "id": "bluesao/cemented-cup-angle-of-lateral-opening-dia-15mm",
+  "name": "Cemented Cup - Angle of Lateral Opening (Dia. 15mm",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 15,
+  "file": "implants/bluesao/cemented-cup-angle-of-lateral-opening-dia-15mm.json"
+ },
+ {
+  "id": "bluesao/patella-groove-replacement",
+  "name": "Patella Groove Replacement",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 12,
+  "file": "implants/bluesao/patella-groove-replacement.json"
+ },
+ {
+  "id": "bluesao/prcl-locking-plate-system",
+  "name": "PRCL Locking Plate System",
+  "manufacturer": "BlueSAO",
+  "family": "PRCL- L",
+  "variants": 3,
+  "file": "implants/bluesao/prcl-locking-plate-system.json"
+ },
+ {
+  "id": "bluesao/prcl-locking-plate-system-2",
+  "name": "PRCL Locking Plate System",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 134,
+  "file": "implants/bluesao/prcl-locking-plate-system-2.json"
+ },
+ {
+  "id": "bluesao/prcl-locking-plate-system-3",
+  "name": "PRCL Locking Plate System",
+  "manufacturer": "BlueSAO",
+  "family": "PRCL - T",
+  "variants": 6,
+  "file": "implants/bluesao/prcl-locking-plate-system-3.json"
+ },
+ {
+  "id": "bluesao/thr-biological-b-cup",
+  "name": "THR Biological B-Cup",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 10,
+  "file": "implants/bluesao/thr-biological-b-cup.json"
+ },
+ {
+  "id": "bluesao/thr-biological-d-cup",
+  "name": "THR Biological D-Cup",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 8,
+  "file": "implants/bluesao/thr-biological-d-cup.json"
+ },
+ {
+  "id": "bluesao/thr-biological-stem",
+  "name": "THR Biological stem",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 11,
+  "file": "implants/bluesao/thr-biological-stem.json"
+ },
+ {
+  "id": "bluesao/thr-cemented-stem",
+  "name": "THR Cemented stem",
+  "manufacturer": "BlueSAO",
+  "family": null,
+  "variants": 6,
+  "file": "implants/bluesao/thr-cemented-stem.json"
+ },
+ {
+  "id": "bluesao/tplo-locking-plate-system",
+  "name": "TPLO Locking Plate System",
+  "manufacturer": "BlueSAO",
+  "family": "TPLO plate",
+  "variants": 8,
+  "file": "implants/bluesao/tplo-locking-plate-system.json"
+ },
+ {
+  "id": "caomedica/tplo-curva-ws",
+  "name": "TPLO Curva  (WS)",
+  "manufacturer": "Caomedica",
+  "family": null,
+  "variants": 8,
+  "file": "implants/caomedica/tplo-curva-ws.json"
+ },
+ {
+  "id": "caomedica/tplo-estrela-1222",
+  "name": "TPLO Estrela 1222",
+  "manufacturer": "Caomedica",
+  "family": null,
+  "variants": 9,
+  "file": "implants/caomedica/tplo-estrela-1222.json"
+ },
+ {
+  "id": "caomedica/tplo-jufix-trevo",
+  "name": "TPLO Jufix - Trevo",
+  "manufacturer": "Caomedica",
+  "family": null,
+  "variants": 8,
+  "file": "implants/caomedica/tplo-jufix-trevo.json"
+ },
+ {
+  "id": "doiff/1-5-t-plate-locking",
+  "name": "1.5 T-Plate Locking",
+  "manufacturer": "DOIFF",
+  "family": "1.5 T-Plate",
+  "variants": 3,
+  "file": "implants/doiff/1-5-t-plate-locking.json"
+ },
+ {
+  "id": "engevet/1-5-2-0-titanium-plates",
+  "name": "1.5/2.0 TITANIUM PLATES ",
+  "manufacturer": "Engevet",
+  "family": "1.5/2.0 TITANIUM PLATES ",
+  "variants": 2,
+  "file": "implants/engevet/1-5-2-0-titanium-plates.json"
+ },
+ {
+  "id": "engevet/2-0mm-combo-lcp-straight-plates",
+  "name": "2.0MM COMBO LCP STRAIGHT PLATES",
+  "manufacturer": "Engevet",
+  "family": "2.0MM COMBO LCP STRAIGHT PLATE",
+  "variants": 5,
+  "file": "implants/engevet/2-0mm-combo-lcp-straight-plates.json"
+ },
+ {
+  "id": "engevet/2-7mm-combo-lcp-straight-plates",
+  "name": "2.7MM COMBO LCP STRAIGHT PLATES",
+  "manufacturer": "Engevet",
+  "family": "2.7MM COMBO LCP STRAIGHT PLATE",
+  "variants": 5,
+  "file": "implants/engevet/2-7mm-combo-lcp-straight-plates.json"
+ },
+ {
+  "id": "engevet/3-5mm-combo-lcp-straight-plates",
+  "name": "3.5MM COMBO LCP STRAIGHT PLATES",
+  "manufacturer": "Engevet",
+  "family": "LCP COMBO ",
+  "variants": 6,
+  "file": "implants/engevet/3-5mm-combo-lcp-straight-plates.json"
+ },
+ {
+  "id": "engevet/combo-lcp-t-plates",
+  "name": "COMBO LCP T PLATES",
+  "manufacturer": "Engevet",
+  "family": "COMBO LCP T PLATE",
+  "variants": 6,
+  "file": "implants/engevet/combo-lcp-t-plates.json"
+ },
+ {
+  "id": "engevet/craniotomy",
+  "name": "CRANIOTOMY",
+  "manufacturer": "Engevet",
+  "family": "CRANIOTOMY",
+  "variants": 14,
+  "file": "implants/engevet/craniotomy.json"
+ },
+ {
+  "id": "engevet/dfo-locking-plates",
+  "name": "DFO Locking Plates",
+  "manufacturer": "Engevet",
+  "family": null,
+  "variants": 5,
+  "file": "implants/engevet/dfo-locking-plates.json"
+ },
+ {
+  "id": "engevet/dpo-plate",
+  "name": "DPO PLATE",
+  "manufacturer": "Engevet",
+  "family": "DPO PLATES",
+  "variants": 9,
+  "file": "implants/engevet/dpo-plate.json"
+ },
+ {
+  "id": "engevet/pancarpal-arthrodesis-locking-plates",
+  "name": "PANCARPAL ARTHRODESIS LOCKING PLATES",
+  "manufacturer": "Engevet",
+  "family": null,
+  "variants": 16,
+  "file": "implants/engevet/pancarpal-arthrodesis-locking-plates.json"
+ },
+ {
+  "id": "engevet/pantarsal-arthodesis-apts-plates",
+  "name": "PANTARSAL ARTHODESIS APTS PLATES",
+  "manufacturer": "Engevet",
+  "family": "PANTARSAL ARTHODESIS APTS PLATES",
+  "variants": 5,
+  "file": "implants/engevet/pantarsal-arthodesis-apts-plates.json"
+ },
+ {
+  "id": "engevet/pgr",
+  "name": "PGR ",
+  "manufacturer": "Engevet",
+  "family": null,
+  "variants": 9,
+  "file": "implants/engevet/pgr.json"
+ },
+ {
+  "id": "engevet/tplo-cl",
+  "name": "TPLO CL",
+  "manufacturer": "Engevet",
+  "family": "TPLO CL Plates",
+  "variants": 6,
+  "file": "implants/engevet/tplo-cl.json"
+ },
+ {
+  "id": "engevet/tplo-gold",
+  "name": "TPLO GOLD",
+  "manufacturer": "Engevet",
+  "family": null,
+  "variants": 9,
+  "file": "implants/engevet/tplo-gold.json"
+ },
+ {
+  "id": "everost/2-0-mm-l-round-hole-plates",
+  "name": "2.0 mm ‘L’ Round Hole Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 2,
+  "file": "implants/everost/2-0-mm-l-round-hole-plates.json"
+ },
+ {
+  "id": "everost/2-0-mm-mini-plate-straight-tubular",
+  "name": "2.0 mm Mini Plate Straight Tubular",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 5,
+  "file": "implants/everost/2-0-mm-mini-plate-straight-tubular.json"
+ },
+ {
+  "id": "everost/2-0-mm-t-round-hole-plates",
+  "name": "2.0 mm ‘T’ Round Hole Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 2,
+  "file": "implants/everost/2-0-mm-t-round-hole-plates.json"
+ },
+ {
+  "id": "everost/2-4-mm-locking-plate-fixed-angle",
+  "name": "2.4 mm Locking Plate Fixed Angle",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 15,
+  "file": "implants/everost/2-4-mm-locking-plate-fixed-angle.json"
+ },
+ {
+  "id": "everost/2-7-mm-l-round-hole-plates",
+  "name": "2.7 mm ‘L’ Round Hole Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 2,
+  "file": "implants/everost/2-7-mm-l-round-hole-plates.json"
+ },
+ {
+  "id": "everost/2-7-mm-locking-plate-fixed-angle",
+  "name": "2.7 mm Locking Plate Fixed Angle",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 17,
+  "file": "implants/everost/2-7-mm-locking-plate-fixed-angle.json"
+ },
+ {
+  "id": "everost/2-7-mm-reconstruction-plates",
+  "name": "2.7 mm Reconstruction Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 8,
+  "file": "implants/everost/2-7-mm-reconstruction-plates.json"
+ },
+ {
+  "id": "everost/2-7-mm-t-round-hole-plates",
+  "name": "2.7 mm ‘T’ Round Hole Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 2,
+  "file": "implants/everost/2-7-mm-t-round-hole-plates.json"
+ },
+ {
+  "id": "everost/3-5-mm-broad",
+  "name": "3.5 mm Broad",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 13,
+  "file": "implants/everost/3-5-mm-broad.json"
+ },
+ {
+  "id": "everost/3-5-mm-broad-dcp",
+  "name": "3.5 mm Broad DCP",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 19,
+  "file": "implants/everost/3-5-mm-broad-dcp.json"
+ },
+ {
+  "id": "everost/3-5-mm-dcp",
+  "name": "3.5 mm DCP",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 17,
+  "file": "implants/everost/3-5-mm-dcp.json"
+ },
+ {
+  "id": "everost/3-5-mm-locking-plate-fixed-angle",
+  "name": "3.5 mm Locking Plate Fixed Angle",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 18,
+  "file": "implants/everost/3-5-mm-locking-plate-fixed-angle.json"
+ },
+ {
+  "id": "everost/3-5-mm-reconstruction-plates",
+  "name": "3.5 mm Reconstruction Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 7,
+  "file": "implants/everost/3-5-mm-reconstruction-plates.json"
+ },
+ {
+  "id": "everost/3-5-mm-t-round-hole-plates",
+  "name": "3.5 mm ‘T’ Round Hole Plates",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 3,
+  "file": "implants/everost/3-5-mm-t-round-hole-plates.json"
+ },
+ {
+  "id": "everost/4-5-mm-broad",
+  "name": "4.5 mm Broad",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 12,
+  "file": "implants/everost/4-5-mm-broad.json"
+ },
+ {
+  "id": "everost/4-5-mm-dcp",
+  "name": "4.5 mm DCP",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 15,
+  "file": "implants/everost/4-5-mm-dcp.json"
+ },
+ {
+  "id": "everost/acetabular-plates-2-0-3-5",
+  "name": "Acetabular Plates 2.0-3.5",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 7,
+  "file": "implants/everost/acetabular-plates-2-0-3-5.json"
+ },
+ {
+  "id": "everost/alpine-libertylock-tplo",
+  "name": "Alpine LibertyLock TPLO",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 7,
+  "file": "implants/everost/alpine-libertylock-tplo.json"
+ },
+ {
+  "id": "everost/pantarsal-cranial-120-140-canine",
+  "name": "Pantarsal Cranial 120/°140° Canine",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 5,
+  "file": "implants/everost/pantarsal-cranial-120-140-canine.json"
+ },
+ {
+  "id": "everost/tplo-clover-type-non-lock",
+  "name": "TPLO Clover type (Non-Lock)",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 13,
+  "file": "implants/everost/tplo-clover-type-non-lock.json"
+ },
+ {
+  "id": "everost/tplo-delta-non-lock",
+  "name": "TPLO Delta (Non-Lock)",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 7,
+  "file": "implants/everost/tplo-delta-non-lock.json"
+ },
+ {
+  "id": "everost/tplo-slocum-2-0-2-7",
+  "name": "TPLO Slocum 2.0-2.7",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 3,
+  "file": "implants/everost/tplo-slocum-2-0-2-7.json"
+ },
+ {
+  "id": "everost/tta-cages-standard-cuttable",
+  "name": "TTA Cages - Standard & Cuttable",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 9,
+  "file": "implants/everost/tta-cages-standard-cuttable.json"
+ },
+ {
+  "id": "everost/tta-plates-forkless",
+  "name": "TTA Plates - forkless",
+  "manufacturer": "Everost",
+  "family": null,
+  "variants": 6,
+  "file": "implants/everost/tta-plates-forkless.json"
+ },
+ {
+  "id": "focus-ortopedia/1-5-bridging-plates",
+  "name": "1.5 Bridging Plates",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 5,
+  "file": "implants/focus-ortopedia/1-5-bridging-plates.json"
+ },
+ {
+  "id": "focus-ortopedia/1-5-condilo",
+  "name": "1.5 Condilo",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 1,
+  "file": "implants/focus-ortopedia/1-5-condilo.json"
+ },
+ {
+  "id": "focus-ortopedia/1-5-l-90",
+  "name": "1.5 L (90º)",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 3,
+  "file": "implants/focus-ortopedia/1-5-l-90.json"
+ },
+ {
+  "id": "focus-ortopedia/1-5-t",
+  "name": "1.5 T",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 3,
+  "file": "implants/focus-ortopedia/1-5-t.json"
+ },
+ {
+  "id": "focus-ortopedia/1-5-y-mickey",
+  "name": "1.5  Y - Mickey",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 3,
+  "file": "implants/focus-ortopedia/1-5-y-mickey.json"
+ },
+ {
+  "id": "focus-ortopedia/1-5l-120",
+  "name": "1.5L (120º)",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 3,
+  "file": "implants/focus-ortopedia/1-5l-120.json"
+ },
+ {
+  "id": "focus-ortopedia/tplo",
+  "name": "TPLO",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 4,
+  "file": "implants/focus-ortopedia/tplo.json"
+ },
+ {
+  "id": "focus-ortopedia/tplo-gii",
+  "name": "TPLO GII",
+  "manufacturer": "Focus Ortopedia",
+  "family": null,
+  "variants": 6,
+  "file": "implants/focus-ortopedia/tplo-gii.json"
+ },
+ {
+  "id": "fusion-implants/ace",
+  "name": "ACE",
+  "manufacturer": "Fusion Implants",
+  "family": null,
+  "variants": 1,
+  "file": "implants/fusion-implants/ace.json"
+ },
+ {
+  "id": "fusion-implants/flip",
+  "name": "FLIP",
+  "manufacturer": "Fusion Implants",
+  "family": null,
+  "variants": 2,
+  "file": "implants/fusion-implants/flip.json"
+ },
+ {
+  "id": "fusion-implants/hirs",
+  "name": "HIRS",
+  "manufacturer": "Fusion Implants",
+  "family": null,
+  "variants": 5,
+  "file": "implants/fusion-implants/hirs.json"
+ },
+ {
+  "id": "fusion-implants/hiss",
+  "name": "HISS",
+  "manufacturer": "Fusion Implants",
+  "family": null,
+  "variants": 5,
+  "file": "implants/fusion-implants/hiss.json"
+ },
+ {
+  "id": "fusion-implants/hiss-small",
+  "name": "HISS Small",
+  "manufacturer": "Fusion Implants",
+  "family": null,
+  "variants": 4,
+  "file": "implants/fusion-implants/hiss-small.json"
+ },
+ {
+  "id": "fusion-implants/leap",
+  "name": "LEAP",
+  "manufacturer": "Fusion Implants",
+  "family": "LEAP",
+  "variants": 3,
+  "file": "implants/fusion-implants/leap.json"
+ },
+ {
+  "id": "fusion-implants/locking-tplo",
+  "name": "Locking TPLO",
+  "manufacturer": "Fusion Implants",
+  "family": "TPLO Plate",
+  "variants": 14,
+  "file": "implants/fusion-implants/locking-tplo.json"
+ },
+ {
+  "id": "fusion-implants/map",
+  "name": "MAP",
+  "manufacturer": "Fusion Implants",
+  "family": null,
+  "variants": 5,
+  "file": "implants/fusion-implants/map.json"
+ },
+ {
+  "id": "imex-veterinary/centerface-full-pin",
+  "name": "Centerface Full-Pin",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 12,
+  "file": "implants/imex-veterinary/centerface-full-pin.json"
+ },
+ {
+  "id": "imex-veterinary/centerface-full-pin-cancellous",
+  "name": "Centerface Full-Pin, Cancellous",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 6,
+  "file": "implants/imex-veterinary/centerface-full-pin-cancellous.json"
+ },
+ {
+  "id": "imex-veterinary/centerface-mini-full-pin",
+  "name": "Centerface Mini Full-Pin",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 3,
+  "file": "implants/imex-veterinary/centerface-mini-full-pin.json"
+ },
+ {
+  "id": "imex-veterinary/duraface-half-pin",
+  "name": "Duraface Half-Pin",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 11,
+  "file": "implants/imex-veterinary/duraface-half-pin.json"
+ },
+ {
+  "id": "imex-veterinary/duraface-half-pin-no-trocar-point",
+  "name": "Duraface Half-Pin (no trocar point)",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 6,
+  "file": "implants/imex-veterinary/duraface-half-pin-no-trocar-point.json"
+ },
+ {
+  "id": "imex-veterinary/interface-half-pin",
+  "name": "Interface Half-Pin",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 12,
+  "file": "implants/imex-veterinary/interface-half-pin.json"
+ },
+ {
+  "id": "imex-veterinary/interface-half-pin-cancellous",
+  "name": "Interface Half-Pin, Cancellous",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 6,
+  "file": "implants/imex-veterinary/interface-half-pin-cancellous.json"
+ },
+ {
+  "id": "imex-veterinary/interface-mini-half-pin",
+  "name": "Interface Mini Half-pin",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 5,
+  "file": "implants/imex-veterinary/interface-mini-half-pin.json"
+ },
+ {
+  "id": "imex-veterinary/large-animal-transfixation",
+  "name": "Large Animal Transfixation",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 2,
+  "file": "implants/imex-veterinary/large-animal-transfixation.json"
+ },
+ {
+  "id": "imex-veterinary/miniature-stick-pins",
+  "name": "Miniature Stick-Pins",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 4,
+  "file": "implants/imex-veterinary/miniature-stick-pins.json"
+ },
+ {
+  "id": "imex-veterinary/stopper-fix-wire",
+  "name": "Stopper Fix Wire",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 3,
+  "file": "implants/imex-veterinary/stopper-fix-wire.json"
+ },
+ {
+  "id": "imex-veterinary/suture-anchor",
+  "name": "Suture Anchor",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 5,
+  "file": "implants/imex-veterinary/suture-anchor.json"
+ },
+ {
+  "id": "imex-veterinary/vetkiss",
+  "name": "VetKISS",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 2,
+  "file": "implants/imex-veterinary/vetkiss.json"
+ },
+ {
+  "id": "imex-veterinary/vetkiss-rigid-t-l-1-4mm",
+  "name": "VetKISS 'Rigid' T/L 1.4mm",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 1,
+  "file": "implants/imex-veterinary/vetkiss-rigid-t-l-1-4mm.json"
+ },
+ {
+  "id": "imex-veterinary/vetkiss-straight-rigid-plates",
+  "name": "VetKISS Straight 'Rigid'  Plates",
+  "manufacturer": "IMEX Veterinary",
+  "family": null,
+  "variants": 7,
+  "file": "implants/imex-veterinary/vetkiss-straight-rigid-plates.json"
+ },
+ {
+  "id": "innoplant/3con-stem",
+  "name": "3Con Stem",
+  "manufacturer": "INNOPLANT",
+  "family": "Total Hip Replacement",
+  "variants": 12,
+  "file": "implants/innoplant/3con-stem.json"
+ },
+ {
+  "id": "innoplant/cemta-cup",
+  "name": "CemtA Cup",
+  "manufacturer": "INNOPLANT",
+  "family": "Total Hip Replacement",
+  "variants": 6,
+  "file": "implants/innoplant/cemta-cup.json"
+ },
+ {
+  "id": "innoplant/cemta-cup-mini",
+  "name": "CemtA Cup - Mini",
+  "manufacturer": "INNOPLANT",
+  "family": "Mini Hip",
+  "variants": 2,
+  "file": "implants/innoplant/cemta-cup-mini.json"
+ },
+ {
+  "id": "innoplant/cemta-stem",
+  "name": "CemtA Stem",
+  "manufacturer": "INNOPLANT",
+  "family": "Total Hip Replacement",
+  "variants": 6,
+  "file": "implants/innoplant/cemta-stem.json"
+ },
+ {
+  "id": "innoplant/helica-tps-stem",
+  "name": "HELICA TPS Stem",
+  "manufacturer": "INNOPLANT",
+  "family": "Total Hip Replacement",
+  "variants": 6,
+  "file": "implants/innoplant/helica-tps-stem.json"
+ },
+ {
+  "id": "innoplant/screwcup-sl",
+  "name": "ScrewCup - SL",
+  "manufacturer": "INNOPLANT",
+  "family": "Total Hip Replacement",
+  "variants": 6,
+  "file": "implants/innoplant/screwcup-sl.json"
+ },
+ {
+  "id": "innoplant/tra-trochlear-ridge-arthroplasty",
+  "name": "TRA - Trochlear Ridge Arthroplasty",
+  "manufacturer": "INNOPLANT",
+  "family": "Trochlea implants",
+  "variants": 13,
+  "file": "implants/innoplant/tra-trochlear-ridge-arthroplasty.json"
+ },
+ {
+  "id": "innoplant/tta-jump",
+  "name": "TTA Jump!",
+  "manufacturer": "INNOPLANT",
+  "family": "TTA - TTT",
+  "variants": 9,
+  "file": "implants/innoplant/tta-jump.json"
+ },
+ {
+  "id": "insorvet/locking-curved-tplo",
+  "name": "Locking Curved TPLO",
+  "manufacturer": "Insorvet",
+  "family": "TPLO CURVED",
+  "variants": 6,
+  "file": "implants/insorvet/locking-curved-tplo.json"
+ },
+ {
+  "id": "insorvet/locking-straight-tplo",
+  "name": "Locking Straight TPLO",
+  "manufacturer": "Insorvet",
+  "family": "TPLO STRAIGHT",
+  "variants": 6,
+  "file": "implants/insorvet/locking-straight-tplo.json"
+ },
+ {
+  "id": "intrauma/1-7-micro-series-l-support",
+  "name": "1.7 Micro Series L Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 1,
+  "file": "implants/intrauma/1-7-micro-series-l-support.json"
+ },
+ {
+  "id": "intrauma/1-7-micro-series-l-support-2",
+  "name": "1.7 Micro Series L Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 5,
+  "file": "implants/intrauma/1-7-micro-series-l-support-2.json"
+ },
+ {
+  "id": "intrauma/1-7-micro-series-micro-cuttable-support",
+  "name": "1.7 Micro Series Micro Cuttable Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 2,
+  "file": "implants/intrauma/1-7-micro-series-micro-cuttable-support.json"
+ },
+ {
+  "id": "intrauma/1-7-micro-series-straight-support",
+  "name": "1.7 Micro Series Straight Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 4,
+  "file": "implants/intrauma/1-7-micro-series-straight-support.json"
+ },
+ {
+  "id": "intrauma/1-7-micro-series-t-support",
+  "name": "1.7 Micro Series T Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 5,
+  "file": "implants/intrauma/1-7-micro-series-t-support.json"
+ },
+ {
+  "id": "intrauma/1-9-2-5-mini-series-acetabular",
+  "name": "1.9 - 2.5 Mini Series Acetabular",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 1,
+  "file": "implants/intrauma/1-9-2-5-mini-series-acetabular.json"
+ },
+ {
+  "id": "intrauma/1-9-2-5-mini-series-l-support",
+  "name": "1.9 - 2.5 Mini Series L Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 1,
+  "file": "implants/intrauma/1-9-2-5-mini-series-l-support.json"
+ },
+ {
+  "id": "intrauma/1-9-2-5-mini-series-straight-support",
+  "name": "1.9 - 2.5 Mini Series Straight Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 10,
+  "file": "implants/intrauma/1-9-2-5-mini-series-straight-support.json"
+ },
+ {
+  "id": "intrauma/1-9-2-5-mini-series-t-support",
+  "name": "1.9 - 2.5  Mini Series T Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 7,
+  "file": "implants/intrauma/1-9-2-5-mini-series-t-support.json"
+ },
+ {
+  "id": "intrauma/1-9-2-5-mini-series-tplo-l-support",
+  "name": "1.9 - 2.5 Mini Series TPLO L Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 1,
+  "file": "implants/intrauma/1-9-2-5-mini-series-tplo-l-support.json"
+ },
+ {
+  "id": "intrauma/3-0-3-5-series-dpo-support",
+  "name": "3.0 - 3.5 Series DPO Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 2,
+  "file": "implants/intrauma/3-0-3-5-series-dpo-support.json"
+ },
+ {
+  "id": "intrauma/3-0-3-5-series-straight-support",
+  "name": "3.0 - 3.5 Series Straight Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 13,
+  "file": "implants/intrauma/3-0-3-5-series-straight-support.json"
+ },
+ {
+  "id": "intrauma/3-0-3-5-series-t-l-support",
+  "name": "3.0 - 3.5 Series T/L Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 6,
+  "file": "implants/intrauma/3-0-3-5-series-t-l-support.json"
+ },
+ {
+  "id": "intrauma/3-0-3-5-series-t-support-prebent",
+  "name": "3.0 - 3.5 Series T Support Prebent",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 2,
+  "file": "implants/intrauma/3-0-3-5-series-t-support-prebent.json"
+ },
+ {
+  "id": "intrauma/3-0-3-5-series-tplo-l-support-prebent",
+  "name": "3.0 - 3.5 Series TPLO L Support Prebent",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 3,
+  "file": "implants/intrauma/3-0-3-5-series-tplo-l-support-prebent.json"
+ },
+ {
+  "id": "intrauma/3-0-3-5-series-tpo-support",
+  "name": "3.0 - 3.5 Series TPO Support",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 2,
+  "file": "implants/intrauma/3-0-3-5-series-tpo-support.json"
+ },
+ {
+  "id": "intrauma/carmelo-system-micro-plates",
+  "name": "CARMELO System Micro - Plates",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 7,
+  "file": "implants/intrauma/carmelo-system-micro-plates.json"
+ },
+ {
+  "id": "intrauma/carmelo-system-mini-plates",
+  "name": "CARMELO System Mini - Plates",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 9,
+  "file": "implants/intrauma/carmelo-system-mini-plates.json"
+ },
+ {
+  "id": "intrauma/cblo-fixin-3-0-3-5",
+  "name": "CBLO Fixin 3.0 - 3.5",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 1,
+  "file": "implants/intrauma/cblo-fixin-3-0-3-5.json"
+ },
+ {
+  "id": "intrauma/cuttable-support-carmelo-to-1-9-2-5mm",
+  "name": "Cuttable Support (CARMELO to 1.9-2.5mm)",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 4,
+  "file": "implants/intrauma/cuttable-support-carmelo-to-1-9-2-5mm.json"
+ },
+ {
+  "id": "intrauma/dfo-plates",
+  "name": "DFO plates",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 8,
+  "file": "implants/intrauma/dfo-plates.json"
+ },
+ {
+  "id": "intrauma/pancarpal-arthrodesis",
+  "name": "Pancarpal Arthrodesis",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 11,
+  "file": "implants/intrauma/pancarpal-arthrodesis.json"
+ },
+ {
+  "id": "intrauma/pantarsal-arthrodesis",
+  "name": "Pantarsal Arthrodesis",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 4,
+  "file": "implants/intrauma/pantarsal-arthrodesis.json"
+ },
+ {
+  "id": "intrauma/test-3",
+  "name": "TEST 3",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 16,
+  "file": "implants/intrauma/test-3.json"
+ },
+ {
+  "id": "intrauma/tplo",
+  "name": "TPLO",
+  "manufacturer": "Intrauma",
+  "family": null,
+  "variants": 9,
+  "file": "implants/intrauma/tplo.json"
+ },
+ {
+  "id": "invictos/elevation-plate",
+  "name": "Elevation Plate",
+  "manufacturer": "InVictos",
+  "family": null,
+  "variants": 7,
+  "file": "implants/invictos/elevation-plate.json"
+ },
+ {
+  "id": "iwet/acetabular-iliac-anatomical-locking-plate",
+  "name": "Acetabular-iliac anatomical locking plate",
+  "manufacturer": "IWET",
+  "family": "Locking plates",
+  "variants": 5,
+  "file": "implants/iwet/acetabular-iliac-anatomical-locking-plate.json"
+ },
+ {
+  "id": "iwet/anatomical-locking",
+  "name": "Anatomical Locking",
+  "manufacturer": "IWET",
+  "family": null,
+  "variants": 8,
+  "file": "implants/iwet/anatomical-locking.json"
+ },
+ {
+  "id": "iwet/anatomical-locking-caudal-bend",
+  "name": "Anatomical Locking  – Caudal Bend",
+  "manufacturer": "IWET",
+  "family": null,
+  "variants": 5,
+  "file": "implants/iwet/anatomical-locking-caudal-bend.json"
+ },
+ {
+  "id": "iwet/anatomical-locking-cblo-plates",
+  "name": "Anatomical Locking CBLO Plates",
+  "manufacturer": "IWET",
+  "family": null,
+  "variants": 7,
+  "file": "implants/iwet/anatomical-locking-cblo-plates.json"
+ },
+ {
+  "id": "iwet/anti-luxation-washer-for-tplo-plates",
+  "name": "Anti-luxation washer for TPLO plates",
+  "manufacturer": "IWET",
+  "family": "TPLO Plates",
+  "variants": 14,
+  "file": "implants/iwet/anti-luxation-washer-for-tplo-plates.json"
+ },
+ {
+  "id": "iwet/distal-humeral-compression-plates-y-plate",
+  "name": "Distal Humeral Compression Plates - Y Plate",
+  "manufacturer": "IWET",
+  "family": "Locking plates",
+  "variants": 6,
+  "file": "implants/iwet/distal-humeral-compression-plates-y-plate.json"
+ },
+ {
+  "id": "iwet/elbow-locking-arthrodesis-plate-medial",
+  "name": "Elbow locking arthrodesis plate (Medial) ",
+  "manufacturer": "IWET",
+  "family": "Arthrodesis plates",
+  "variants": 3,
+  "file": "implants/iwet/elbow-locking-arthrodesis-plate-medial.json"
+ },
+ {
+  "id": "iwet/locking-bridging-plates",
+  "name": "Locking bridging plates",
+  "manufacturer": "IWET",
+  "family": "Locking plates",
+  "variants": 33,
+  "file": "implants/iwet/locking-bridging-plates.json"
+ },
+ {
+  "id": "iwet/locking-condylar-femoral-plates",
+  "name": "Locking condylar femoral plates",
+  "manufacturer": "IWET",
+  "family": "Locking plates",
+  "variants": 11,
+  "file": "implants/iwet/locking-condylar-femoral-plates.json"
+ },
+ {
+  "id": "iwet/locking-l-plates",
+  "name": "Locking L plates",
+  "manufacturer": "IWET",
+  "family": "Locking plates",
+  "variants": 7,
+  "file": "implants/iwet/locking-l-plates.json"
+ },
+ {
+  "id": "iwet/pancarpal-arthrodesis-locking-plates",
+  "name": "Pancarpal arthrodesis locking plates",
+  "manufacturer": "IWET",
+  "family": null,
+  "variants": 5,
+  "file": "implants/iwet/pancarpal-arthrodesis-locking-plates.json"
+ },
+ {
+  "id": "iwet/pantarsal-arthrodesis-locking-plates",
+  "name": "Pantarsal arthrodesis locking plates",
+  "manufacturer": "IWET",
+  "family": "Arthrodesis plates",
+  "variants": 8,
+  "file": "implants/iwet/pantarsal-arthrodesis-locking-plates.json"
+ },
+ {
+  "id": "iwet/sho-sliding-humeral-osteotomy",
+  "name": "SHO - Sliding Humeral Osteotomy",
+  "manufacturer": "IWET",
+  "family": "SHO",
+  "variants": 9,
+  "file": "implants/iwet/sho-sliding-humeral-osteotomy.json"
+ },
+ {
+  "id": "iwet/trochlear-groove-replacement-tgr",
+  "name": "Trochlear Groove Replacement - TGR",
+  "manufacturer": "IWET",
+  "family": "TGR",
+  "variants": 19,
+  "file": "implants/iwet/trochlear-groove-replacement-tgr.json"
+ },
+ {
+  "id": "jeil-medical/1-2-2-0mm-cuttable-locking-plates",
+  "name": "1.2 - 2.0mm Cuttable Locking Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 11,
+  "file": "implants/jeil-medical/1-2-2-0mm-cuttable-locking-plates.json"
+ },
+ {
+  "id": "jeil-medical/1-2-2-0mm-locking-t-plates",
+  "name": "1.2-2.0mm - Locking T-Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/1-2-2-0mm-locking-t-plates.json"
+ },
+ {
+  "id": "jeil-medical/1-2mm-2-0mm-lcp-plate-normal-plate",
+  "name": "1.2mm - 2.0mm LCP Plate - Normal Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 2,
+  "file": "implants/jeil-medical/1-2mm-2-0mm-lcp-plate-normal-plate.json"
+ },
+ {
+  "id": "jeil-medical/1-2mm-2-0mm-lcp-plate-recon-plate",
+  "name": "1.2mm - 2.0mm LCP Plate - Recon. Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 2,
+  "file": "implants/jeil-medical/1-2mm-2-0mm-lcp-plate-recon-plate.json"
+ },
+ {
+  "id": "jeil-medical/1-5mm-2-0mm-dfo-plates",
+  "name": "1.5mm - 2.0mm DFO Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/jeil-medical/1-5mm-2-0mm-dfo-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-0mm-locking-bridging-plate",
+  "name": "2.0mm Locking Bridging Plate",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/jeil-medical/2-0mm-locking-bridging-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-4-locking-compression-t-plates",
+  "name": "2.4 Locking Compression T-Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/jeil-medical/2-4-locking-compression-t-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-4-locking-reconstruction-plates",
+  "name": "2.4 Locking Reconstruction Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/2-4-locking-reconstruction-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-4mm-compression-plate",
+  "name": "2.4mm Compression Plate",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/2-4mm-compression-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-4mm-lcp-plate-normal-plate",
+  "name": "2.4mm LCP Plate - Normal Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 3,
+  "file": "implants/jeil-medical/2-4mm-lcp-plate-normal-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-4mm-lcp-plate-recon-plate",
+  "name": "2.4mm LCP Plate - Recon. Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 3,
+  "file": "implants/jeil-medical/2-4mm-lcp-plate-recon-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-4mm-locking-bridge-plates",
+  "name": "2.4mm Locking Bridge Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 5,
+  "file": "implants/jeil-medical/2-4mm-locking-bridge-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-7-locking-bridging-plates",
+  "name": "2.7 Locking Bridging Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 5,
+  "file": "implants/jeil-medical/2-7-locking-bridging-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-7mm-compression-plate",
+  "name": "2.7mm Compression Plate",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/2-7mm-compression-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-7mm-dfo-plates",
+  "name": "2.7mm DFO Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/jeil-medical/2-7mm-dfo-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-7mm-lcp-plate-normal-plate",
+  "name": "2.7mm LCP Plate - Normal Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 3,
+  "file": "implants/jeil-medical/2-7mm-lcp-plate-normal-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-7mm-lcp-plate-recon-plate",
+  "name": "2.7mm LCP Plate - Recon. Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 3,
+  "file": "implants/jeil-medical/2-7mm-lcp-plate-recon-plate.json"
+ },
+ {
+  "id": "jeil-medical/2-7mm-locking-compression-t-plates",
+  "name": "2.7mm Locking Compression T-Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/jeil-medical/2-7mm-locking-compression-t-plates.json"
+ },
+ {
+  "id": "jeil-medical/2-7mm-locking-reconstruction-plates",
+  "name": "2.7mm Locking Reconstruction Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/2-7mm-locking-reconstruction-plates.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-bridging-plates-polyaxial-locking",
+  "name": "3.5mm Bridging Plates (polyaxial locking)",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/jeil-medical/3-5mm-bridging-plates-polyaxial-locking.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-broad-compression-plate",
+  "name": "3.5mm Broad Compression Plate",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/3-5mm-broad-compression-plate.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-compression-plate",
+  "name": "3.5mm Compression Plate",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/3-5mm-compression-plate.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-dfo-locking-compression-plates",
+  "name": "3.5mm DFO Locking Compression Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/jeil-medical/3-5mm-dfo-locking-compression-plates.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-lcp-plate-normal-plate",
+  "name": "3.5mm LCP Plate - Normal Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 3,
+  "file": "implants/jeil-medical/3-5mm-lcp-plate-normal-plate.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-lcp-plate-recon-plate",
+  "name": "3.5mm LCP Plate - Recon. Plate",
+  "manufacturer": "Jeil Medical",
+  "family": "LCP Plate",
+  "variants": 3,
+  "file": "implants/jeil-medical/3-5mm-lcp-plate-recon-plate.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-locking-compression-t-plates",
+  "name": "3.5mm Locking Compression T-Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/jeil-medical/3-5mm-locking-compression-t-plates.json"
+ },
+ {
+  "id": "jeil-medical/3-5mm-locking-reconstruction-plates",
+  "name": "3.5mm Locking Reconstruction Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/3-5mm-locking-reconstruction-plates.json"
+ },
+ {
+  "id": "jeil-medical/acetabular-plates-locking",
+  "name": "Acetabular Plates (Locking)",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/jeil-medical/acetabular-plates-locking.json"
+ },
+ {
+  "id": "jeil-medical/arix-tplo",
+  "name": "ARIX TPLO",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/jeil-medical/arix-tplo.json"
+ },
+ {
+  "id": "jeil-medical/arix-vet-1-2-3-5mm-series-arthrodesis-plates",
+  "name": "ARIX Vet Ø1.2 - Ø3.5mm Series Arthrodesis Plates",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/jeil-medical/arix-vet-1-2-3-5mm-series-arthrodesis-plates.json"
+ },
+ {
+  "id": "jeil-medical/cblo",
+  "name": "CBLO",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 1,
+  "file": "implants/jeil-medical/cblo.json"
+ },
+ {
+  "id": "jeil-medical/pan-tarsal-arthrodesis-plate-pta",
+  "name": "Pan Tarsal Arthrodesis Plate (PTA)",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 9,
+  "file": "implants/jeil-medical/pan-tarsal-arthrodesis-plate-pta.json"
+ },
+ {
+  "id": "jeil-medical/pancarpal-arthrodesis-plate-pca",
+  "name": "Pancarpal Arthrodesis Plate (PCA)",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 9,
+  "file": "implants/jeil-medical/pancarpal-arthrodesis-plate-pca.json"
+ },
+ {
+  "id": "jeil-medical/tplo",
+  "name": "TPLO",
+  "manufacturer": "Jeil Medical",
+  "family": null,
+  "variants": 18,
+  "file": "implants/jeil-medical/tplo.json"
+ },
+ {
+  "id": "knight-benedikt/1-5mm-cuttable-plate",
+  "name": "1.5mm Cuttable Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 1,
+  "file": "implants/knight-benedikt/1-5mm-cuttable-plate.json"
+ },
+ {
+  "id": "knight-benedikt/1-5mm-dcp",
+  "name": "1.5mm DCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 9,
+  "file": "implants/knight-benedikt/1-5mm-dcp.json"
+ },
+ {
+  "id": "knight-benedikt/1-5mm-lcp",
+  "name": "1.5mm LCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 9,
+  "file": "implants/knight-benedikt/1-5mm-lcp.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-bridging-locking-plate-ss",
+  "name": "2.0mm Bridging Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/2-0mm-bridging-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-compression-t-plate",
+  "name": "2.0mm Compression T-Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 2,
+  "file": "implants/knight-benedikt/2-0mm-compression-t-plate.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-cuttable-plate",
+  "name": "2.0mm Cuttable Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 2,
+  "file": "implants/knight-benedikt/2-0mm-cuttable-plate.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-lcp",
+  "name": "2.0mm LCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 11,
+  "file": "implants/knight-benedikt/2-0mm-lcp.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-low-contact-dcp-thick",
+  "name": "2.0mm Low Contact DCP Thick",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 9,
+  "file": "implants/knight-benedikt/2-0mm-low-contact-dcp-thick.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-pearl-system-plate-ss",
+  "name": "2.0mm Pearl System Plate ( SS )",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 10,
+  "file": "implants/knight-benedikt/2-0mm-pearl-system-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-0mm-round-hole-locking-plate-ss",
+  "name": "2.0mm Round Hole Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 11,
+  "file": "implants/knight-benedikt/2-0mm-round-hole-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-4mm-bridging-locking-plate-ss",
+  "name": "2.4mm Bridging Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/2-4mm-bridging-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-4mm-lcp",
+  "name": "2.4mm LCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 9,
+  "file": "implants/knight-benedikt/2-4mm-lcp.json"
+ },
+ {
+  "id": "knight-benedikt/2-4mm-low-contact-dcp",
+  "name": "2.4mm Low Contact DCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 9,
+  "file": "implants/knight-benedikt/2-4mm-low-contact-dcp.json"
+ },
+ {
+  "id": "knight-benedikt/2-4mm-pearl-system-plate-ss",
+  "name": "2.4mm Pearl System Plate ( SS )",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 8,
+  "file": "implants/knight-benedikt/2-4mm-pearl-system-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-4mm-round-hole-locking-plate-ss",
+  "name": "2.4mm Round Hole Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 13,
+  "file": "implants/knight-benedikt/2-4mm-round-hole-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-7mm-bridging-locking-plate-ss",
+  "name": "2.7mm Bridging Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/2-7mm-bridging-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-7mm-cuttable-plate-ss",
+  "name": "2.7mm Cuttable Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 1,
+  "file": "implants/knight-benedikt/2-7mm-cuttable-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-7mm-lcp",
+  "name": "2.7mm LCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 11,
+  "file": "implants/knight-benedikt/2-7mm-lcp.json"
+ },
+ {
+  "id": "knight-benedikt/2-7mm-low-contact-dcp",
+  "name": "2.7mm Low Contact DCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 11,
+  "file": "implants/knight-benedikt/2-7mm-low-contact-dcp.json"
+ },
+ {
+  "id": "knight-benedikt/2-7mm-pearl-system-plate-ss",
+  "name": "2.7mm Pearl System Plate ( SS )",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 14,
+  "file": "implants/knight-benedikt/2-7mm-pearl-system-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/2-7mm-round-hole-locking-plate-ss",
+  "name": "2.7mm Round Hole Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 13,
+  "file": "implants/knight-benedikt/2-7mm-round-hole-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-bridging-locking-plate-ss",
+  "name": "3.5mm Bridging Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 8,
+  "file": "implants/knight-benedikt/3-5mm-bridging-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-broad-lcp",
+  "name": "3.5mm Broad LCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 13,
+  "file": "implants/knight-benedikt/3-5mm-broad-lcp.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-broad-round-hole-locking-plate-ss",
+  "name": "3.5mm Broad Round Hole Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 17,
+  "file": "implants/knight-benedikt/3-5mm-broad-round-hole-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-dpo-tpo-locking-plate-ss",
+  "name": "3.5mm DPO/TPO Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/3-5mm-dpo-tpo-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-lcp",
+  "name": "3.5mm LCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 13,
+  "file": "implants/knight-benedikt/3-5mm-lcp.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-locking-reconstuction-plate",
+  "name": "3.5mm Locking Reconstuction Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 17,
+  "file": "implants/knight-benedikt/3-5mm-locking-reconstuction-plate.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-locking-tplo-plate",
+  "name": "3.5mm Locking TPLO Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 4,
+  "file": "implants/knight-benedikt/3-5mm-locking-tplo-plate.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-low-contact-dcp",
+  "name": "3.5mm Low Contact DCP",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 17,
+  "file": "implants/knight-benedikt/3-5mm-low-contact-dcp.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-low-contact-dcp-broad",
+  "name": "3.5mm Low Contact DCP Broad",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 17,
+  "file": "implants/knight-benedikt/3-5mm-low-contact-dcp-broad.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-pearl-system-plate-ss",
+  "name": "3.5mm Pearl System Plate ( SS )",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 16,
+  "file": "implants/knight-benedikt/3-5mm-pearl-system-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/3-5mm-round-hole-locking-plate-ss",
+  "name": "3.5mm Round Hole Locking Plate SS",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 15,
+  "file": "implants/knight-benedikt/3-5mm-round-hole-locking-plate-ss.json"
+ },
+ {
+  "id": "knight-benedikt/acetabular-plate-locking",
+  "name": "Acetabular plate ( Locking)",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 3,
+  "file": "implants/knight-benedikt/acetabular-plate-locking.json"
+ },
+ {
+  "id": "knight-benedikt/compression-t-plate",
+  "name": "Compression T-Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 2,
+  "file": "implants/knight-benedikt/compression-t-plate.json"
+ },
+ {
+  "id": "knight-benedikt/compression-t-plate-2",
+  "name": "Compression T-Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 3,
+  "file": "implants/knight-benedikt/compression-t-plate-2.json"
+ },
+ {
+  "id": "knight-benedikt/distal-femur-locking-plate",
+  "name": "Distal Femur Locking Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/distal-femur-locking-plate.json"
+ },
+ {
+  "id": "knight-benedikt/dorsal-pantarsal-arthrodesis-plate-locking",
+  "name": "Dorsal Pantarsal Arthrodesis Plate (locking)",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 1,
+  "file": "implants/knight-benedikt/dorsal-pantarsal-arthrodesis-plate-locking.json"
+ },
+ {
+  "id": "knight-benedikt/intertarsal-arthrodesis-plate",
+  "name": "Intertarsal Arthrodesis Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 1,
+  "file": "implants/knight-benedikt/intertarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "knight-benedikt/locking-compression-t-plate",
+  "name": "Locking Compression T-Plate",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 13,
+  "file": "implants/knight-benedikt/locking-compression-t-plate.json"
+ },
+ {
+  "id": "knight-benedikt/pancarpal-arthrodesis-plate-locking",
+  "name": "Pancarpal Arthrodesis Plate (locking)",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/pancarpal-arthrodesis-plate-locking.json"
+ },
+ {
+  "id": "knight-benedikt/pancarpal-arthrodesis-plate-non-locking",
+  "name": "Pancarpal Arthrodesis Plate (non-locking)",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 4,
+  "file": "implants/knight-benedikt/pancarpal-arthrodesis-plate-non-locking.json"
+ },
+ {
+  "id": "knight-benedikt/pantarsal-arthrodesis-plate-locking",
+  "name": "Pantarsal Arthrodesis Plate ( locking )",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 5,
+  "file": "implants/knight-benedikt/pantarsal-arthrodesis-plate-locking.json"
+ },
+ {
+  "id": "knight-benedikt/tplo-swiss-style-withdrawn",
+  "name": "TPLO Swiss style (withdrawn)",
+  "manufacturer": "Knight Benedikt",
+  "family": null,
+  "variants": 9,
+  "file": "implants/knight-benedikt/tplo-swiss-style-withdrawn.json"
+ },
+ {
+  "id": "kyon/acetabular-cup",
+  "name": "Acetabular Cup",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 5,
+  "file": "implants/kyon/acetabular-cup.json"
+ },
+ {
+  "id": "kyon/acetabular-cup-version",
+  "name": "Acetabular Cup Version",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 70,
+  "file": "implants/kyon/acetabular-cup-version.json"
+ },
+ {
+  "id": "kyon/alps-1",
+  "name": "ALPS-1",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 120,
+  "file": "implants/kyon/alps-1.json"
+ },
+ {
+  "id": "kyon/alps-acetfx",
+  "name": "ALPS AcetFX",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/alps-acetfx.json"
+ },
+ {
+  "id": "kyon/alps-distal-humerus-plate",
+  "name": "ALPS distal humerus plate",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 3,
+  "file": "implants/kyon/alps-distal-humerus-plate.json"
+ },
+ {
+  "id": "kyon/alps-dpo-standard-small",
+  "name": "ALPS DPO Standard/Small",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 2,
+  "file": "implants/kyon/alps-dpo-standard-small.json"
+ },
+ {
+  "id": "kyon/alps-fuse-medial-pantarsal",
+  "name": "ALPS FUSE Medial Pantarsal",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/alps-fuse-medial-pantarsal.json"
+ },
+ {
+  "id": "kyon/alps-i-size-10",
+  "name": "ALPS-I (Size 10)",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 11,
+  "file": "implants/kyon/alps-i-size-10.json"
+ },
+ {
+  "id": "kyon/alps-i-size-11",
+  "name": "ALPS-I (Size 11)",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 8,
+  "file": "implants/kyon/alps-i-size-11.json"
+ },
+ {
+  "id": "kyon/alps-ii-carpal-arthrodesis",
+  "name": "ALPS II Carpal Arthrodesis",
+  "manufacturer": "KYON",
+  "family": "Carpal Arthrodesis",
+  "variants": 4,
+  "file": "implants/kyon/alps-ii-carpal-arthrodesis.json"
+ },
+ {
+  "id": "kyon/alps-ii-iis-size-10",
+  "name": "ALPS-II/-IIS (size 10)",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 7,
+  "file": "implants/kyon/alps-ii-iis-size-10.json"
+ },
+ {
+  "id": "kyon/alps-ii-iis-size-11",
+  "name": "ALPS-II/-IIS (size 11)",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 8,
+  "file": "implants/kyon/alps-ii-iis-size-11.json"
+ },
+ {
+  "id": "kyon/alps-ii-iis-size-5-9",
+  "name": "ALPS-II/-IIS (size 5-9)",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/alps-ii-iis-size-5-9.json"
+ },
+ {
+  "id": "kyon/alps-ii-pancarpal-arthrodesis",
+  "name": "ALPS II Pancarpal Arthrodesis",
+  "manufacturer": "KYON",
+  "family": "Carpal Arthrodesis",
+  "variants": 4,
+  "file": "implants/kyon/alps-ii-pancarpal-arthrodesis.json"
+ },
+ {
+  "id": "kyon/alps-ii-partial-carpal-arthrodesis",
+  "name": "ALPS II Partial Carpal Arthrodesis",
+  "manufacturer": "KYON",
+  "family": "Carpal Arthrodesis",
+  "variants": 4,
+  "file": "implants/kyon/alps-ii-partial-carpal-arthrodesis.json"
+ },
+ {
+  "id": "kyon/alps-ii-t-plate",
+  "name": "ALPS-II T-plate",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 6,
+  "file": "implants/kyon/alps-ii-t-plate.json"
+ },
+ {
+  "id": "kyon/alps-mini-t-plate",
+  "name": "ALPS mini T-plate",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/alps-mini-t-plate.json"
+ },
+ {
+  "id": "kyon/alps-paul-i",
+  "name": "ALPS PAUL-I",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 8,
+  "file": "implants/kyon/alps-paul-i.json"
+ },
+ {
+  "id": "kyon/alps-paul-ii",
+  "name": "ALPS PAUL-II",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 8,
+  "file": "implants/kyon/alps-paul-ii.json"
+ },
+ {
+  "id": "kyon/alps-tplo",
+  "name": "ALPS TPLO",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 8,
+  "file": "implants/kyon/alps-tplo.json"
+ },
+ {
+  "id": "kyon/cup",
+  "name": "Cup",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 3,
+  "file": "implants/kyon/cup.json"
+ },
+ {
+  "id": "kyon/cup-mini-standard",
+  "name": "Cup Mini/Standard",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 10,
+  "file": "implants/kyon/cup-mini-standard.json"
+ },
+ {
+  "id": "kyon/cupless-femoral-head",
+  "name": "Cupless femoral head",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 7,
+  "file": "implants/kyon/cupless-femoral-head.json"
+ },
+ {
+  "id": "kyon/femoral-head-for-biomedtrix-cup",
+  "name": "Femoral Head for Biomedtrix Cup",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 2,
+  "file": "implants/kyon/femoral-head-for-biomedtrix-cup.json"
+ },
+ {
+  "id": "kyon/femoral-head-mini",
+  "name": "Femoral Head Mini",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/femoral-head-mini.json"
+ },
+ {
+  "id": "kyon/femoral-head-standard",
+  "name": "Femoral Head Standard",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 3,
+  "file": "implants/kyon/femoral-head-standard.json"
+ },
+ {
+  "id": "kyon/femoral-head-standard-2",
+  "name": "Femoral Head Standard",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/femoral-head-standard-2.json"
+ },
+ {
+  "id": "kyon/femoral-stem",
+  "name": "Femoral Stem",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 7,
+  "file": "implants/kyon/femoral-stem.json"
+ },
+ {
+  "id": "kyon/femoral-stem-mini-new",
+  "name": "Femoral Stem Mini (new)",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 5,
+  "file": "implants/kyon/femoral-stem-mini-new.json"
+ },
+ {
+  "id": "kyon/femoral-stem-standard",
+  "name": "Femoral Stem Standard",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/femoral-stem-standard.json"
+ },
+ {
+  "id": "kyon/forked-long-plate",
+  "name": "Forked Long Plate",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 6,
+  "file": "implants/kyon/forked-long-plate.json"
+ },
+ {
+  "id": "kyon/hemi-elbow-component",
+  "name": "Hemi Elbow Component",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 7,
+  "file": "implants/kyon/hemi-elbow-component.json"
+ },
+ {
+  "id": "kyon/mini-tta-cage",
+  "name": "Mini TTA Cage",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 9,
+  "file": "implants/kyon/mini-tta-cage.json"
+ },
+ {
+  "id": "kyon/mini-tta-plate",
+  "name": "Mini TTA Plate",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 5,
+  "file": "implants/kyon/mini-tta-plate.json"
+ },
+ {
+  "id": "kyon/patella-groove-replacement",
+  "name": "Patella Groove Replacement",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 12,
+  "file": "implants/kyon/patella-groove-replacement.json"
+ },
+ {
+  "id": "kyon/proximal-interphalangeal-arthorodesis",
+  "name": "Proximal Interphalangeal Arthorodesis",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 2,
+  "file": "implants/kyon/proximal-interphalangeal-arthorodesis.json"
+ },
+ {
+  "id": "kyon/thr-mini-femoral-head",
+  "name": "THR mini Femoral Head",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 2,
+  "file": "implants/kyon/thr-mini-femoral-head.json"
+ },
+ {
+  "id": "kyon/thr-mini-femoral-head-cupless",
+  "name": "THR mini Femoral Head Cupless",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 3,
+  "file": "implants/kyon/thr-mini-femoral-head-cupless.json"
+ },
+ {
+  "id": "kyon/total-medial-elbow",
+  "name": "Total Medial Elbow",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 3,
+  "file": "implants/kyon/total-medial-elbow.json"
+ },
+ {
+  "id": "kyon/tta-2-cage",
+  "name": "TTA-2 Cage",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 9,
+  "file": "implants/kyon/tta-2-cage.json"
+ },
+ {
+  "id": "kyon/tta-2-saw-guide",
+  "name": "TTA-2 Saw Guide",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 4,
+  "file": "implants/kyon/tta-2-saw-guide.json"
+ },
+ {
+  "id": "kyon/tta-cages",
+  "name": "TTA Cages",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 9,
+  "file": "implants/kyon/tta-cages.json"
+ },
+ {
+  "id": "kyon/tta-forked-plates",
+  "name": "TTA Forked Plates",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 7,
+  "file": "implants/kyon/tta-forked-plates.json"
+ },
+ {
+  "id": "kyon/tta-forked-plates-2",
+  "name": "TTA Forked Plates",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 7,
+  "file": "implants/kyon/tta-forked-plates-2.json"
+ },
+ {
+  "id": "kyon/tta-forks",
+  "name": "TTA Forks",
+  "manufacturer": "KYON",
+  "family": null,
+  "variants": 6,
+  "file": "implants/kyon/tta-forks.json"
+ },
+ {
+  "id": "lincevet/minitoy-reta",
+  "name": "MINITOY RETA",
+  "manufacturer": "Lincevet",
+  "family": "MINITOY PLATES",
+  "variants": 1,
+  "file": "implants/lincevet/minitoy-reta.json"
+ },
+ {
+  "id": "lincevet/tplo-lincevet",
+  "name": "TPLO Lincevet",
+  "manufacturer": "Lincevet",
+  "family": null,
+  "variants": 20,
+  "file": "implants/lincevet/tplo-lincevet.json"
+ },
+ {
+  "id": "lincevet/trochlear-prosthesis",
+  "name": "Trochlear Prosthesis",
+  "manufacturer": "Lincevet",
+  "family": null,
+  "variants": 10,
+  "file": "implants/lincevet/trochlear-prosthesis.json"
+ },
+ {
+  "id": "mathemedix/mathemedix-tplo",
+  "name": "Mathemedix TPLO",
+  "manufacturer": "Mathemedix",
+  "family": null,
+  "variants": 7,
+  "file": "implants/mathemedix/mathemedix-tplo.json"
+ },
+ {
+  "id": "medgal/1-5-2-0-locking-bridging-plate",
+  "name": "1.5/2.0 Locking bridging plate",
+  "manufacturer": "Medgal",
+  "family": "Locking bridging plate",
+  "variants": 3,
+  "file": "implants/medgal/1-5-2-0-locking-bridging-plate.json"
+ },
+ {
+  "id": "medgal/2-4-2-7-locking-bridging-plate",
+  "name": "2.4/2.7 Locking bridging plate",
+  "manufacturer": "Medgal",
+  "family": "Locking bridging plate",
+  "variants": 5,
+  "file": "implants/medgal/2-4-2-7-locking-bridging-plate.json"
+ },
+ {
+  "id": "medgal/3-5-locking-bridging-plate",
+  "name": "3.5 Locking bridging plate",
+  "manufacturer": "Medgal",
+  "family": "Locking bridging plate",
+  "variants": 6,
+  "file": "implants/medgal/3-5-locking-bridging-plate.json"
+ },
+ {
+  "id": "medgal/5-0-locking-bridging-plate",
+  "name": "5.0 Locking bridging plate",
+  "manufacturer": "Medgal",
+  "family": "Locking bridging plate",
+  "variants": 4,
+  "file": "implants/medgal/5-0-locking-bridging-plate.json"
+ },
+ {
+  "id": "medgal/locking-condylar-plate",
+  "name": "Locking condylar plate ",
+  "manufacturer": "Medgal",
+  "family": "CONDYLAR PLATES",
+  "variants": 14,
+  "file": "implants/medgal/locking-condylar-plate.json"
+ },
+ {
+  "id": "medgal/locking-pancarpal-arthrodesis-plate",
+  "name": "Locking pancarpal arthrodesis plate",
+  "manufacturer": "Medgal",
+  "family": "ARTHRODESIS PLATES",
+  "variants": 8,
+  "file": "implants/medgal/locking-pancarpal-arthrodesis-plate.json"
+ },
+ {
+  "id": "medgal/locking-pantarsal-arthrodesis-plate",
+  "name": "Locking pantarsal arthrodesis plate",
+  "manufacturer": "Medgal",
+  "family": "ARTHRODESIS PLATES",
+  "variants": 10,
+  "file": "implants/medgal/locking-pantarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "medgal/tplo-compression-locking-plate",
+  "name": "TPLO compression-locking plate",
+  "manufacturer": "Medgal",
+  "family": "TPLO PLATES",
+  "variants": 22,
+  "file": "implants/medgal/tplo-compression-locking-plate.json"
+ },
+ {
+  "id": "n2uk/acetabular-plates",
+  "name": "Acetabular Plates",
+  "manufacturer": "N2UK",
+  "family": "Acetabular Plates",
+  "variants": 7,
+  "file": "implants/n2uk/acetabular-plates.json"
+ },
+ {
+  "id": "n2uk/arthrodesis-plates-pancarpal-dcp-style",
+  "name": "Arthrodesis Plates (Pancarpal DCP Style)",
+  "manufacturer": "N2UK",
+  "family": "Arthrodesis Plates",
+  "variants": 15,
+  "file": "implants/n2uk/arthrodesis-plates-pancarpal-dcp-style.json"
+ },
+ {
+  "id": "n2uk/arthrodesis-plates-pantarsal-cranial",
+  "name": "Arthrodesis Plates (Pantarsal Cranial)",
+  "manufacturer": "N2UK",
+  "family": "Arthrodesis Plates",
+  "variants": 5,
+  "file": "implants/n2uk/arthrodesis-plates-pantarsal-cranial.json"
+ },
+ {
+  "id": "n2uk/arthrodesis-plates-pantarsal-medial",
+  "name": "Arthrodesis Plates (Pantarsal Medial)",
+  "manufacturer": "N2UK",
+  "family": "Arthrodesis Plates",
+  "variants": 9,
+  "file": "implants/n2uk/arthrodesis-plates-pantarsal-medial.json"
+ },
+ {
+  "id": "n2uk/arthrodesis-plates-partial-carpal",
+  "name": "Arthrodesis Plates (Partial Carpal)",
+  "manufacturer": "N2UK",
+  "family": "Arthrodesis Plates",
+  "variants": 3,
+  "file": "implants/n2uk/arthrodesis-plates-partial-carpal.json"
+ },
+ {
+  "id": "n2uk/buttress-bridge-biological-healing-2-0mm-plates",
+  "name": "Buttress Bridge (Biological Healing) 2.0mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 3,
+  "file": "implants/n2uk/buttress-bridge-biological-healing-2-0mm-plates.json"
+ },
+ {
+  "id": "n2uk/buttress-bridge-biological-healing-2-7mm-plates",
+  "name": "Buttress Bridge (Biological Healing) 2.7mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 6,
+  "file": "implants/n2uk/buttress-bridge-biological-healing-2-7mm-plates.json"
+ },
+ {
+  "id": "n2uk/buttress-bridge-biological-healing-3-5mm-plates",
+  "name": "Buttress Bridge (Biological Healing) 3.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 6,
+  "file": "implants/n2uk/buttress-bridge-biological-healing-3-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/buttress-bridge-biological-healing-3-5mm-plates-broad",
+  "name": "Buttress Bridge (Biological Healing) 3.5mm Plates (Broad)",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 6,
+  "file": "implants/n2uk/buttress-bridge-biological-healing-3-5mm-plates-broad.json"
+ },
+ {
+  "id": "n2uk/buttress-bridge-biological-healing-4-5mm-plates",
+  "name": "Buttress Bridge (Biological Healing) 4.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 6,
+  "file": "implants/n2uk/buttress-bridge-biological-healing-4-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/combination-locking-2-4mm-plates-fixed-angle",
+  "name": "Combination Locking 2.4mm Plates (Fixed Angle)",
+  "manufacturer": "N2UK",
+  "family": "Combination Locking Plates",
+  "variants": 15,
+  "file": "implants/n2uk/combination-locking-2-4mm-plates-fixed-angle.json"
+ },
+ {
+  "id": "n2uk/combination-locking-2-7mm-plates-fixed-angle",
+  "name": "Combination Locking 2.7mm Plates (Fixed Angle)",
+  "manufacturer": "N2UK",
+  "family": "Combination Locking Plates",
+  "variants": 15,
+  "file": "implants/n2uk/combination-locking-2-7mm-plates-fixed-angle.json"
+ },
+ {
+  "id": "n2uk/combination-locking-3-5mm-plates-fixed-angle",
+  "name": "Combination Locking 3.5mm Plates (Fixed Angle)",
+  "manufacturer": "N2UK",
+  "family": "Combination Locking Plates",
+  "variants": 15,
+  "file": "implants/n2uk/combination-locking-3-5mm-plates-fixed-angle.json"
+ },
+ {
+  "id": "n2uk/compression-3-5-mm-plates-dcp",
+  "name": "Compression 3.5 mm Plates (DCP)",
+  "manufacturer": "N2UK",
+  "family": "Compression Plates",
+  "variants": 17,
+  "file": "implants/n2uk/compression-3-5-mm-plates-dcp.json"
+ },
+ {
+  "id": "n2uk/compression-3-5mm-broad-plates-dcp",
+  "name": "Compression 3.5mm Broad Plates (DCP)",
+  "manufacturer": "N2UK",
+  "family": "Compression Plates",
+  "variants": 19,
+  "file": "implants/n2uk/compression-3-5mm-broad-plates-dcp.json"
+ },
+ {
+  "id": "n2uk/compression-4-5mm-broad-plates-dcp",
+  "name": "Compression 4.5mm Broad Plates (DCP)",
+  "manufacturer": "N2UK",
+  "family": "Compression Plates",
+  "variants": 12,
+  "file": "implants/n2uk/compression-4-5mm-broad-plates-dcp.json"
+ },
+ {
+  "id": "n2uk/compression-4-5mm-plates-dcp",
+  "name": "Compression 4.5mm Plates (DCP)",
+  "manufacturer": "N2UK",
+  "family": "Compression Plates",
+  "variants": 15,
+  "file": "implants/n2uk/compression-4-5mm-plates-dcp.json"
+ },
+ {
+  "id": "n2uk/compression-plates-1-5mm-dcp",
+  "name": "Compression Plates 1.5mm (DCP)",
+  "manufacturer": "N2UK",
+  "family": "Compression Plates",
+  "variants": 11,
+  "file": "implants/n2uk/compression-plates-1-5mm-dcp.json"
+ },
+ {
+  "id": "n2uk/cuttable-1-5mm-plates-non-locking",
+  "name": "Cuttable 1.5mm Plates (Non-Locking)",
+  "manufacturer": "N2UK",
+  "family": "Cuttable / Malleable Plates",
+  "variants": 4,
+  "file": "implants/n2uk/cuttable-1-5mm-plates-non-locking.json"
+ },
+ {
+  "id": "n2uk/cuttable-2-4mm-plates-non-locking",
+  "name": "Cuttable 2.4mm Plates (Non-Locking)",
+  "manufacturer": "N2UK",
+  "family": "Cuttable / Malleable Plates",
+  "variants": 5,
+  "file": "implants/n2uk/cuttable-2-4mm-plates-non-locking.json"
+ },
+ {
+  "id": "n2uk/cuttable-malleable-2-0mm-plates-non-locking",
+  "name": "Cuttable / Malleable 2.0mm Plates (Non-Locking)",
+  "manufacturer": "N2UK",
+  "family": "Cuttable / Malleable Plates",
+  "variants": 5,
+  "file": "implants/n2uk/cuttable-malleable-2-0mm-plates-non-locking.json"
+ },
+ {
+  "id": "n2uk/cuttable-malleable-2-7mm-plates-non-locking",
+  "name": "Cuttable / Malleable 2.7mm Plates (Non-Locking)",
+  "manufacturer": "N2UK",
+  "family": "Cuttable / Malleable Plates",
+  "variants": 6,
+  "file": "implants/n2uk/cuttable-malleable-2-7mm-plates-non-locking.json"
+ },
+ {
+  "id": "n2uk/distal-radius-2-0mm-plates-l",
+  "name": "Distal Radius 2.0mm Plates (‘L’)",
+  "manufacturer": "N2UK",
+  "family": "Distal Radius Plates",
+  "variants": 2,
+  "file": "implants/n2uk/distal-radius-2-0mm-plates-l.json"
+ },
+ {
+  "id": "n2uk/distal-radius-2-0mm-plates-t",
+  "name": "Distal Radius 2.0mm Plates (‘T’)",
+  "manufacturer": "N2UK",
+  "family": "Distal Radius Plates",
+  "variants": 2,
+  "file": "implants/n2uk/distal-radius-2-0mm-plates-t.json"
+ },
+ {
+  "id": "n2uk/distal-radius-2-7mm-plates-l",
+  "name": "Distal Radius 2.7mm Plates (‘L’)",
+  "manufacturer": "N2UK",
+  "family": "Distal Radius Plates",
+  "variants": 2,
+  "file": "implants/n2uk/distal-radius-2-7mm-plates-l.json"
+ },
+ {
+  "id": "n2uk/distal-radius-2-7mm-plates-t",
+  "name": "Distal Radius 2.7mm Plates (‘T’)",
+  "manufacturer": "N2UK",
+  "family": "Distal Radius Plates",
+  "variants": 2,
+  "file": "implants/n2uk/distal-radius-2-7mm-plates-t.json"
+ },
+ {
+  "id": "n2uk/distal-radius-3-5mm-plates-t",
+  "name": "Distal Radius 3.5mm Plates (‘T’)",
+  "manufacturer": "N2UK",
+  "family": "Distal Radius Plates",
+  "variants": 3,
+  "file": "implants/n2uk/distal-radius-3-5mm-plates-t.json"
+ },
+ {
+  "id": "n2uk/evolox-acetabular-plates",
+  "name": "Evolox® Acetabular Plates",
+  "manufacturer": "N2UK",
+  "family": "Acetabular Plates",
+  "variants": 6,
+  "file": "implants/n2uk/evolox-acetabular-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-arthrodesis-plates-pancarpal",
+  "name": "EVOLOX® Arthrodesis Plates (Pancarpal)",
+  "manufacturer": "N2UK",
+  "family": "Arthrodesis Plates",
+  "variants": 3,
+  "file": "implants/n2uk/evolox-arthrodesis-plates-pancarpal.json"
+ },
+ {
+  "id": "n2uk/evolox-arthrodesis-plates-pantarsal-medial",
+  "name": "EVOLOX® Arthrodesis Plates (Pantarsal Medial)",
+  "manufacturer": "N2UK",
+  "family": "Arthrodesis Plates",
+  "variants": 3,
+  "file": "implants/n2uk/evolox-arthrodesis-plates-pantarsal-medial.json"
+ },
+ {
+  "id": "n2uk/evolox-biological-healing-2-4mm-plates",
+  "name": "Evolox® Biological Healing 2.4mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 2,
+  "file": "implants/n2uk/evolox-biological-healing-2-4mm-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-biological-healing-3-5mm-plates",
+  "name": "Evolox® Biological Healing 3.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Buttress Bridge (Biological Healing) Plates",
+  "variants": 4,
+  "file": "implants/n2uk/evolox-biological-healing-3-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-cuttable-malleable-2-4mm-plates",
+  "name": "Evolox® Cuttable / Malleable 2.4mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Cuttable / Malleable Plates",
+  "variants": 2,
+  "file": "implants/n2uk/evolox-cuttable-malleable-2-4mm-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-double-ended-y-plates",
+  "name": "EVOLOX® Double Ended Y Plates",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 3,
+  "file": "implants/n2uk/evolox-double-ended-y-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-gen-2-hybrid-t-plates",
+  "name": "Evolox® Gen-2 Hybrid T-Plates",
+  "manufacturer": "N2UK",
+  "family": "Hybrid T Plates",
+  "variants": 7,
+  "file": "implants/n2uk/evolox-gen-2-hybrid-t-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-locking-cuttable-ring-plates",
+  "name": "EVOLOX®/Locking Cuttable Ring Plates",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 3,
+  "file": "implants/n2uk/evolox-locking-cuttable-ring-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-locking-tplo-spinnaker-plates-monoaxial-proximal-hole",
+  "name": "EVOLOX®/Locking TPLO Spinnaker Plates - Monoaxial Proximal Hole",
+  "manufacturer": "N2UK",
+  "family": "TPLO Plates",
+  "variants": 6,
+  "file": "implants/n2uk/evolox-locking-tplo-spinnaker-plates-monoaxial-proximal-hole.json"
+ },
+ {
+  "id": "n2uk/evolox-osteosynthesis-2-7mm-plates",
+  "name": "Evolox® Osteosynthesis 2.7mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Osteosynthesis Plates",
+  "variants": 13,
+  "file": "implants/n2uk/evolox-osteosynthesis-2-7mm-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-osteosynthesis-3-5mm-broad-plates",
+  "name": "Evolox® Osteosynthesis 3.5mm Broad Plates",
+  "manufacturer": "N2UK",
+  "family": "Osteosynthesis Plates",
+  "variants": 15,
+  "file": "implants/n2uk/evolox-osteosynthesis-3-5mm-broad-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-osteosynthesis-3-5mm-plates",
+  "name": "Evolox® Osteosynthesis 3.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Osteosynthesis Plates",
+  "variants": 13,
+  "file": "implants/n2uk/evolox-osteosynthesis-3-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-polyaxial-locking-compression-3-5mm-plates",
+  "name": "Evolox® Polyaxial/Locking Compression 3.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 11,
+  "file": "implants/n2uk/evolox-polyaxial-locking-compression-3-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-supracondylar-osteotomy-plates",
+  "name": "EVOLOX® Supracondylar Osteotomy Plates",
+  "manufacturer": "N2UK",
+  "family": "Supracondylar Plates",
+  "variants": 1,
+  "file": "implants/n2uk/evolox-supracondylar-osteotomy-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-tplo-plates",
+  "name": "EVOLOX® TPLO Plates",
+  "manufacturer": "N2UK",
+  "family": "TPLO Plates",
+  "variants": 8,
+  "file": "implants/n2uk/evolox-tplo-plates.json"
+ },
+ {
+  "id": "n2uk/evolox-tplo-plates-monoaxial-proximal-hole",
+  "name": "EVOLOX® TPLO Plates - Monoaxial Proximal Hole",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 5,
+  "file": "implants/n2uk/evolox-tplo-plates-monoaxial-proximal-hole.json"
+ },
+ {
+  "id": "n2uk/h-plates",
+  "name": "H-Plates",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 2,
+  "file": "implants/n2uk/h-plates.json"
+ },
+ {
+  "id": "n2uk/hybrid-t-plates",
+  "name": "Hybrid T-Plates",
+  "manufacturer": "N2UK",
+  "family": "Hybrid T Plates",
+  "variants": 19,
+  "file": "implants/n2uk/hybrid-t-plates.json"
+ },
+ {
+  "id": "n2uk/iohc-cortical-shaft-4-5mm-screws",
+  "name": "IOHC Cortical Shaft 4.5mm Screws",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 7,
+  "file": "implants/n2uk/iohc-cortical-shaft-4-5mm-screws.json"
+ },
+ {
+  "id": "n2uk/kirschner-arthrodesis-wire-bayonet-round",
+  "name": "Kirschner/Arthrodesis Wire (Bayonet / Round)",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 8,
+  "file": "implants/n2uk/kirschner-arthrodesis-wire-bayonet-round.json"
+ },
+ {
+  "id": "n2uk/limited-contact-2-4mm-plates",
+  "name": "Limited Contact 2.4mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Limited Contact Plates",
+  "variants": 9,
+  "file": "implants/n2uk/limited-contact-2-4mm-plates.json"
+ },
+ {
+  "id": "n2uk/limited-contact-2-7mm-plates",
+  "name": "Limited Contact 2.7mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Limited Contact Plates",
+  "variants": 13,
+  "file": "implants/n2uk/limited-contact-2-7mm-plates.json"
+ },
+ {
+  "id": "n2uk/limited-contact-3-5mm-broad-plates",
+  "name": "Limited Contact 3.5mm Broad Plates",
+  "manufacturer": "N2UK",
+  "family": "Limited Contact Plates",
+  "variants": 13,
+  "file": "implants/n2uk/limited-contact-3-5mm-broad-plates.json"
+ },
+ {
+  "id": "n2uk/limited-contact-3-5mm-plates",
+  "name": "Limited Contact 3.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Limited Contact Plates",
+  "variants": 15,
+  "file": "implants/n2uk/limited-contact-3-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/limited-contact-plates-2-0-mm",
+  "name": "Limited Contact Plates 2.0 mm",
+  "manufacturer": "N2UK",
+  "family": "Limited Contact Plates",
+  "variants": 11,
+  "file": "implants/n2uk/limited-contact-plates-2-0-mm.json"
+ },
+ {
+  "id": "n2uk/mini-straight-tubular-2-0mm-plates",
+  "name": "Mini Straight Tubular 2.0mm Plates",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 5,
+  "file": "implants/n2uk/mini-straight-tubular-2-0mm-plates.json"
+ },
+ {
+  "id": "n2uk/reconstruction-2-7mm-plates",
+  "name": "Reconstruction 2.7mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Reconstruction Plates",
+  "variants": 8,
+  "file": "implants/n2uk/reconstruction-2-7mm-plates.json"
+ },
+ {
+  "id": "n2uk/reconstruction-3-5mm-plates",
+  "name": "Reconstruction 3.5mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Reconstruction Plates",
+  "variants": 7,
+  "file": "implants/n2uk/reconstruction-3-5mm-plates.json"
+ },
+ {
+  "id": "n2uk/round-hole-2-0mm-plates",
+  "name": "Round Hole 2.0mm Plates",
+  "manufacturer": "N2UK",
+  "family": "Round Hole Plates",
+  "variants": 11,
+  "file": "implants/n2uk/round-hole-2-0mm-plates.json"
+ },
+ {
+  "id": "n2uk/steinman-intra-medullary-pins-trocar-trocar",
+  "name": "Steinman Intra-Medullary Pins (Trocar / Trocar) ",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 10,
+  "file": "implants/n2uk/steinman-intra-medullary-pins-trocar-trocar.json"
+ },
+ {
+  "id": "n2uk/tplo-compression-plates-non-locking",
+  "name": "TPLO Compression Plates (Non-Locking)",
+  "manufacturer": "N2UK",
+  "family": "TPLO Plates",
+  "variants": 13,
+  "file": "implants/n2uk/tplo-compression-plates-non-locking.json"
+ },
+ {
+  "id": "n2uk/tplo-delta-plates-non-locking",
+  "name": "TPLO Delta Plates (Non-Locking)",
+  "manufacturer": "N2UK",
+  "family": "TPLO Plates",
+  "variants": 6,
+  "file": "implants/n2uk/tplo-delta-plates-non-locking.json"
+ },
+ {
+  "id": "n2uk/tplo-plates-slocum-style",
+  "name": "TPLO Plates (Slocum Style)",
+  "manufacturer": "N2UK",
+  "family": "TPLO Plates",
+  "variants": 3,
+  "file": "implants/n2uk/tplo-plates-slocum-style.json"
+ },
+ {
+  "id": "n2uk/tta-forked-plates",
+  "name": "TTA Forked Plates",
+  "manufacturer": "N2UK",
+  "family": "TTA",
+  "variants": 7,
+  "file": "implants/n2uk/tta-forked-plates.json"
+ },
+ {
+  "id": "n2uk/tta-forkless-plates",
+  "name": "TTA Forkless Plates",
+  "manufacturer": "N2UK",
+  "family": null,
+  "variants": 6,
+  "file": "implants/n2uk/tta-forkless-plates.json"
+ },
+ {
+  "id": "new-generation-devices/2-0mm-straight-compression-plate",
+  "name": "2.0mm Straight Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 6,
+  "file": "implants/new-generation-devices/2-0mm-straight-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/2-0mm-t-plate-9-holes",
+  "name": "2.0mm T-plate 9 holes",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 1,
+  "file": "implants/new-generation-devices/2-0mm-t-plate-9-holes.json"
+ },
+ {
+  "id": "new-generation-devices/2-4mm-locking-compression-plate",
+  "name": "2.4mm Locking Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 5,
+  "file": "implants/new-generation-devices/2-4mm-locking-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/2-7-locking-compression-plate",
+  "name": "2.7 Locking Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 9,
+  "file": "implants/new-generation-devices/2-7-locking-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/2-7mm-straight-compression-plate",
+  "name": "2.7mm Straight Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 9,
+  "file": "implants/new-generation-devices/2-7mm-straight-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/3-5-broad-locking-compression-plate",
+  "name": "3.5 Broad Locking Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 11,
+  "file": "implants/new-generation-devices/3-5-broad-locking-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/3-5mm-broad-straight-compression-plate",
+  "name": "3.5mm Broad Straight Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 11,
+  "file": "implants/new-generation-devices/3-5mm-broad-straight-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/3-5mm-locking-compression-plate",
+  "name": "3.5mm Locking Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 9,
+  "file": "implants/new-generation-devices/3-5mm-locking-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/3-5mm-offset-cloverleaf-cruciate-plate",
+  "name": "3.5mm Offset Cloverleaf Cruciate Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 3,
+  "file": "implants/new-generation-devices/3-5mm-offset-cloverleaf-cruciate-plate.json"
+ },
+ {
+  "id": "new-generation-devices/3-5mm-reconstruction-plates",
+  "name": "3.5mm Reconstruction Plates",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 7,
+  "file": "implants/new-generation-devices/3-5mm-reconstruction-plates.json"
+ },
+ {
+  "id": "new-generation-devices/3-5mm-straight-compression-plate",
+  "name": "3.5mm Straight Compression Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 13,
+  "file": "implants/new-generation-devices/3-5mm-straight-compression-plate.json"
+ },
+ {
+  "id": "new-generation-devices/cloverleaf-cruciate-plate",
+  "name": "Cloverleaf Cruciate Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 7,
+  "file": "implants/new-generation-devices/cloverleaf-cruciate-plate.json"
+ },
+ {
+  "id": "new-generation-devices/cut-to-length-plates",
+  "name": "Cut to Length Plates",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 2,
+  "file": "implants/new-generation-devices/cut-to-length-plates.json"
+ },
+ {
+  "id": "new-generation-devices/distal-femoral-osteotomy-plate",
+  "name": "Distal Femoral Osteotomy Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 6,
+  "file": "implants/new-generation-devices/distal-femoral-osteotomy-plate.json"
+ },
+ {
+  "id": "new-generation-devices/locking-lengthening-plate",
+  "name": "Locking Lengthening Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 7,
+  "file": "implants/new-generation-devices/locking-lengthening-plate.json"
+ },
+ {
+  "id": "new-generation-devices/pancarpal-arthrodesis",
+  "name": "Pancarpal Arthrodesis",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 3,
+  "file": "implants/new-generation-devices/pancarpal-arthrodesis.json"
+ },
+ {
+  "id": "new-generation-devices/pantarsal-arthrodesis-plate",
+  "name": "Pantarsal Arthrodesis plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 1,
+  "file": "implants/new-generation-devices/pantarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "new-generation-devices/sliding-humeral-osteotomy-sho-plate",
+  "name": "Sliding Humeral Osteotomy (SHO) Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 3,
+  "file": "implants/new-generation-devices/sliding-humeral-osteotomy-sho-plate.json"
+ },
+ {
+  "id": "new-generation-devices/unity-cruciate-plate",
+  "name": "Unity Cruciate Plate",
+  "manufacturer": "New Generation Devices",
+  "family": null,
+  "variants": 8,
+  "file": "implants/new-generation-devices/unity-cruciate-plate.json"
+ },
+ {
+  "id": "novetech/interference-screw",
+  "name": "Interference Screw",
+  "manufacturer": "Novetech",
+  "family": "Interference Screws",
+  "variants": 17,
+  "file": "implants/novetech/interference-screw.json"
+ },
+ {
+  "id": "orthomed/delta-tplo",
+  "name": "Delta TPLO",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 3,
+  "file": "implants/orthomed/delta-tplo.json"
+ },
+ {
+  "id": "orthomed/mmp-saw-guides",
+  "name": "MMP Saw Guides",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 2,
+  "file": "implants/orthomed/mmp-saw-guides.json"
+ },
+ {
+  "id": "orthomed/orthofoam-mmp-small",
+  "name": "OrthoFoam MMP- Small",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 6,
+  "file": "implants/orthomed/orthofoam-mmp-small.json"
+ },
+ {
+  "id": "orthomed/orthofoam-mmp-std",
+  "name": "OrthoFoam MMP Std",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 7,
+  "file": "implants/orthomed/orthofoam-mmp-std.json"
+ },
+ {
+  "id": "orthomed/pancarpal-castless-2-0-1-5",
+  "name": "Pancarpal Castless 2.0/1.5",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 3,
+  "file": "implants/orthomed/pancarpal-castless-2-0-1-5.json"
+ },
+ {
+  "id": "orthomed/pancarpal-castless-2-7-2-0",
+  "name": "Pancarpal Castless 2.7/2.0",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 4,
+  "file": "implants/orthomed/pancarpal-castless-2-7-2-0.json"
+ },
+ {
+  "id": "orthomed/pancarpal-castless-3-5-2-7",
+  "name": "Pancarpal Castless 3.5/2.7",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 4,
+  "file": "implants/orthomed/pancarpal-castless-3-5-2-7.json"
+ },
+ {
+  "id": "orthomed/partial-carpal-castless",
+  "name": "Partial Carpal Castless",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 7,
+  "file": "implants/orthomed/partial-carpal-castless.json"
+ },
+ {
+  "id": "orthomed/ridgestop",
+  "name": "Ridgestop",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 6,
+  "file": "implants/orthomed/ridgestop.json"
+ },
+ {
+  "id": "orthomed/saw-guide",
+  "name": "Saw Guide",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 3,
+  "file": "implants/orthomed/saw-guide.json"
+ },
+ {
+  "id": "orthomed/sop-2-0",
+  "name": "SOP 2.0",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 8,
+  "file": "implants/orthomed/sop-2-0.json"
+ },
+ {
+  "id": "orthomed/sop-2-7",
+  "name": "SOP 2.7",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 14,
+  "file": "implants/orthomed/sop-2-7.json"
+ },
+ {
+  "id": "orthomed/sop-3-5",
+  "name": "SOP 3.5",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 16,
+  "file": "implants/orthomed/sop-3-5.json"
+ },
+ {
+  "id": "orthomed/sop-tplo",
+  "name": "SOP TPLO",
+  "manufacturer": "Orthomed",
+  "family": null,
+  "variants": 2,
+  "file": "implants/orthomed/sop-tplo.json"
+ },
+ {
+  "id": "ossability/guided-tplo",
+  "name": "Guided TPLO",
+  "manufacturer": "OssAbility",
+  "family": null,
+  "variants": 4,
+  "file": "implants/ossability/guided-tplo.json"
+ },
+ {
+  "id": "ossability/guided-tta",
+  "name": "Guided TTA",
+  "manufacturer": "OssAbility",
+  "family": null,
+  "variants": 2,
+  "file": "implants/ossability/guided-tta.json"
+ },
+ {
+  "id": "ossability/positioning-pin",
+  "name": "Positioning Pin",
+  "manufacturer": "OssAbility",
+  "family": null,
+  "variants": 3,
+  "file": "implants/ossability/positioning-pin.json"
+ },
+ {
+  "id": "ossability/tta-plate",
+  "name": "TTA Plate",
+  "manufacturer": "OssAbility",
+  "family": null,
+  "variants": 4,
+  "file": "implants/ossability/tta-plate.json"
+ },
+ {
+  "id": "ossability/tta-wedge-implant",
+  "name": "TTA Wedge Implant",
+  "manufacturer": "OssAbility",
+  "family": null,
+  "variants": 4,
+  "file": "implants/ossability/tta-wedge-implant.json"
+ },
+ {
+  "id": "osteocertus/0c-tplo-gen-4",
+  "name": "0C TPLO Gen 4",
+  "manufacturer": "Osteocertus",
+  "family": "TPLO Gen 4",
+  "variants": 5,
+  "file": "implants/osteocertus/0c-tplo-gen-4.json"
+ },
+ {
+  "id": "osteocertus/1-5-0c-osti-lok-mini-plate",
+  "name": "1.5, 0C OsTi-Lok MINI Plate",
+  "manufacturer": "Osteocertus",
+  "family": "OsTi-Lok MINI",
+  "variants": 5,
+  "file": "implants/osteocertus/1-5-0c-osti-lok-mini-plate.json"
+ },
+ {
+  "id": "osteocertus/2-0-0c-osti-lok-mini-plate",
+  "name": "2.0, 0C OsTi-Lok MINI Plate",
+  "manufacturer": "Osteocertus",
+  "family": "OsTi-Lok MINI",
+  "variants": 5,
+  "file": "implants/osteocertus/2-0-0c-osti-lok-mini-plate.json"
+ },
+ {
+  "id": "osteocertus/2-4-0c-osti-lok-plate",
+  "name": "2.4, 0C OsTi-Lok Plate",
+  "manufacturer": "Osteocertus",
+  "family": "OsTi-Lok",
+  "variants": 4,
+  "file": "implants/osteocertus/2-4-0c-osti-lok-plate.json"
+ },
+ {
+  "id": "osteocertus/2-7-0c-osti-lok-plate",
+  "name": "2.7, 0C OsTi-Lok Plate",
+  "manufacturer": "Osteocertus",
+  "family": "OsTi-Lok",
+  "variants": 4,
+  "file": "implants/osteocertus/2-7-0c-osti-lok-plate.json"
+ },
+ {
+  "id": "osteocertus/3-5-0c-osti-lok-plate",
+  "name": "3.5, 0C OsTi-Lok Plate",
+  "manufacturer": "Osteocertus",
+  "family": "OsTi-Lok",
+  "variants": 4,
+  "file": "implants/osteocertus/3-5-0c-osti-lok-plate.json"
+ },
+ {
+  "id": "osteocertus/tplo-elite",
+  "name": "TPLO Elite",
+  "manufacturer": "Osteocertus",
+  "family": "Elite",
+  "variants": 8,
+  "file": "implants/osteocertus/tplo-elite.json"
+ },
+ {
+  "id": "porte-vet/dual-mobility-cup",
+  "name": "Dual Mobility Cup",
+  "manufacturer": "PORTE VET",
+  "family": "THR",
+  "variants": 11,
+  "file": "implants/porte-vet/dual-mobility-cup.json"
+ },
+ {
+  "id": "porte-vet/femoral-stem",
+  "name": "Femoral Stem",
+  "manufacturer": "PORTE VET",
+  "family": "THR",
+  "variants": 11,
+  "file": "implants/porte-vet/femoral-stem.json"
+ },
+ {
+  "id": "rita-leibinger-medical/1-0mm-leilox-ti-multi-angle-locking-bridge-plate",
+  "name": "1.0mm LeiLOX Ti Multi Angle Locking Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiLOX 1.0",
+  "variants": 5,
+  "file": "implants/rita-leibinger-medical/1-0mm-leilox-ti-multi-angle-locking-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/1-0mm-leilox-ti-multi-angle-locking-plate",
+  "name": "1.0mm LeiLOX Ti Multi Angle Locking plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiLOX 1.0",
+  "variants": 8,
+  "file": "implants/rita-leibinger-medical/1-0mm-leilox-ti-multi-angle-locking-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-l-plate",
+  "name": "1.5mm LeiLOX Ti Fixed Angle 'L' Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-l-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-locking-bridge-plate",
+  "name": "1.5mm LeiLOX Ti Fixed Angle Locking Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 5,
+  "file": "implants/rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-locking-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-locking-plate",
+  "name": "1.5mm LeiLOX Ti Fixed Angle Locking plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiLOX 1.5",
+  "variants": 8,
+  "file": "implants/rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-locking-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-locking-y-plate",
+  "name": "1.5mm LeiLOX Ti Fixed Angle Locking 'Y' plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/rita-leibinger-medical/1-5mm-leilox-ti-fixed-angle-locking-y-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0-leilox-ti-fixed-angle-locking-l-plate",
+  "name": "2.0 LeiLOX Ti Fixed Angle Locking 'L' plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/rita-leibinger-medical/2-0-leilox-ti-fixed-angle-locking-l-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0mm-leilox-bridge-plate",
+  "name": "2.0mm LeiLOX Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/rita-leibinger-medical/2-0mm-leilox-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0mm-leilox-multi-axial-locking-reconstruction-plate",
+  "name": "2.0mm LeiLOX Multi Axial Locking Reconstruction Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 11,
+  "file": "implants/rita-leibinger-medical/2-0mm-leilox-multi-axial-locking-reconstruction-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0mm-leilox-multi-axial-locking-straight-plate",
+  "name": "2.0mm LeiLOX Multi Axial Locking Straight Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/2-0mm-leilox-multi-axial-locking-straight-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0mm-leilox-ti-fixed-angle-locking-bridge-plate",
+  "name": "2.0mm LeiLOX Ti Fixed Angle Locking Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 5,
+  "file": "implants/rita-leibinger-medical/2-0mm-leilox-ti-fixed-angle-locking-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0mm-leilox-ti-fixed-angle-locking-plate",
+  "name": "2.0mm LeiLOX Ti Fixed Angle Locking Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 8,
+  "file": "implants/rita-leibinger-medical/2-0mm-leilox-ti-fixed-angle-locking-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-0mm-leilox-ti-fixed-angle-locking-y-plate",
+  "name": "2.0mm LeiLOX Ti Fixed Angle Locking 'Y' plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/rita-leibinger-medical/2-0mm-leilox-ti-fixed-angle-locking-y-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-4mm-leilox-bridge-plate",
+  "name": "2.4mm LeiLOX Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/rita-leibinger-medical/2-4mm-leilox-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-4mm-leilox-multi-axial-locking-reconstruction-plate",
+  "name": "2.4mm LeiLOX Multi Axial Locking Reconstruction Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/2-4mm-leilox-multi-axial-locking-reconstruction-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-4mm-leilox-multi-axial-locking-straight-plate",
+  "name": "2.4mm LeiLOX Multi Axial Locking Straight Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/2-4mm-leilox-multi-axial-locking-straight-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-7mm-leilox-bridge-plate",
+  "name": "2.7mm LeiLOX Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/rita-leibinger-medical/2-7mm-leilox-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-7mm-leilox-multi-axial-locking-reconstruction-plate",
+  "name": "2.7mm LeiLOX Multi Axial Locking Reconstruction Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 13,
+  "file": "implants/rita-leibinger-medical/2-7mm-leilox-multi-axial-locking-reconstruction-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/2-7mm-leilox-multi-axial-locking-straight-plate",
+  "name": "2.7mm LeiLOX Multi Axial Locking Straight Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/2-7mm-leilox-multi-axial-locking-straight-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/3-5-leilox-reconstruction-plate",
+  "name": "3.5 LeiLOX Reconstruction Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/3-5-leilox-reconstruction-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/3-5mm-leilox-bridge-plate",
+  "name": "3.5mm LeiLOX Bridge Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/rita-leibinger-medical/3-5mm-leilox-bridge-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/3-5mm-leilox-straight",
+  "name": "3.5mm LeiLOX Straight",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/3-5mm-leilox-straight.json"
+ },
+ {
+  "id": "rita-leibinger-medical/arthrodesis-plate-5",
+  "name": "Arthrodesis Plate 5°",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 6,
+  "file": "implants/rita-leibinger-medical/arthrodesis-plate-5.json"
+ },
+ {
+  "id": "rita-leibinger-medical/cblo-leilox-multi-axial-locking",
+  "name": "CBLO LeiLOX Multi Axial Locking",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "CBLO",
+  "variants": 5,
+  "file": "implants/rita-leibinger-medical/cblo-leilox-multi-axial-locking.json"
+ },
+ {
+  "id": "rita-leibinger-medical/ccwo-ti-multi-angle-locking-plate",
+  "name": "CCWO Ti Multi Angle Locking plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "CCWO",
+  "variants": 6,
+  "file": "implants/rita-leibinger-medical/ccwo-ti-multi-angle-locking-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leicom-2-4-3-1-micro-compression-screw-titanium-star-drive-6",
+  "name": "LeiCOM 2.4/3.1 micro Compression Screw, Titanium, Star Drive 6",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiCOM",
+  "variants": 12,
+  "file": "implants/rita-leibinger-medical/leicom-2-4-3-1-micro-compression-screw-titanium-star-drive-6.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leicom-3-0-3-9-mini-compression-screw-titanium-star-drive-8",
+  "name": "LeiCOM 3.0/3.9 mini Compression Screw, Titanium, Star Drive 8",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiCOM",
+  "variants": 16,
+  "file": "implants/rita-leibinger-medical/leicom-3-0-3-9-mini-compression-screw-titanium-star-drive-8.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leicom-4-0-5-0-medi-compression-screw-titanium-star-drive-10",
+  "name": "LeiCOM 4.0/5.0 medi Compression Screw, Titanium, Star Drive 10",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiCOM",
+  "variants": 15,
+  "file": "implants/rita-leibinger-medical/leicom-4-0-5-0-medi-compression-screw-titanium-star-drive-10.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leicom-5-0-6-0-maxi-compression-screw-titanium-star-drive-15",
+  "name": "LeiCOM 5.0/6.0 maxi Compression Screw, Titanium, Star Drive 15",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiCOM",
+  "variants": 15,
+  "file": "implants/rita-leibinger-medical/leicom-5-0-6-0-maxi-compression-screw-titanium-star-drive-15.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leilox-acetabular-plate",
+  "name": "LeiLOX Acetabular Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 2,
+  "file": "implants/rita-leibinger-medical/leilox-acetabular-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leilox-miscellaneous-plates",
+  "name": "LeiLOX Miscellaneous Plates",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/rita-leibinger-medical/leilox-miscellaneous-plates.json"
+ },
+ {
+  "id": "rita-leibinger-medical/leilox-t-plate",
+  "name": "LeiLOX T-Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 2,
+  "file": "implants/rita-leibinger-medical/leilox-t-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/pancarpal-arthrodesis-leilox-plates",
+  "name": "Pancarpal Arthrodesis LeiLOX Plates",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 6,
+  "file": "implants/rita-leibinger-medical/pancarpal-arthrodesis-leilox-plates.json"
+ },
+ {
+  "id": "rita-leibinger-medical/pantarsal-leilox-arthrodesis-plate",
+  "name": "Pantarsal LeiLOX Arthrodesis Plate",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 5,
+  "file": "implants/rita-leibinger-medical/pantarsal-leilox-arthrodesis-plate.json"
+ },
+ {
+  "id": "rita-leibinger-medical/rapid-patella-luxation-plates",
+  "name": "Rapid Patella Luxation Plates",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 3,
+  "file": "implants/rita-leibinger-medical/rapid-patella-luxation-plates.json"
+ },
+ {
+  "id": "rita-leibinger-medical/rapid-patella-luxation-spacers",
+  "name": "Rapid Patella Luxation Spacers",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/rita-leibinger-medical/rapid-patella-luxation-spacers.json"
+ },
+ {
+  "id": "rita-leibinger-medical/t-plate-leilox-stainless-steel",
+  "name": "T-Plate, LeiLOX, Stainless Steel",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": "LeiLOX",
+  "variants": 8,
+  "file": "implants/rita-leibinger-medical/t-plate-leilox-stainless-steel.json"
+ },
+ {
+  "id": "rita-leibinger-medical/tplo-leilox-multi-axial-locking",
+  "name": "TPLO LeiLOX Multi Axial Locking",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 5,
+  "file": "implants/rita-leibinger-medical/tplo-leilox-multi-axial-locking.json"
+ },
+ {
+  "id": "rita-leibinger-medical/tplo-swing",
+  "name": "TPLO Swing",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 7,
+  "file": "implants/rita-leibinger-medical/tplo-swing.json"
+ },
+ {
+  "id": "rita-leibinger-medical/tta-rapid",
+  "name": "TTA Rapid",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 10,
+  "file": "implants/rita-leibinger-medical/tta-rapid.json"
+ },
+ {
+  "id": "rita-leibinger-medical/tta-rapid-l-shaped-saw-guide",
+  "name": "TTA Rapid L-Shaped Saw Guide",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 6,
+  "file": "implants/rita-leibinger-medical/tta-rapid-l-shaped-saw-guide.json"
+ },
+ {
+  "id": "rita-leibinger-medical/tta-rapid-tiny",
+  "name": "TTA Rapid Tiny",
+  "manufacturer": "Rita Leibinger Medical",
+  "family": null,
+  "variants": 4,
+  "file": "implants/rita-leibinger-medical/tta-rapid-tiny.json"
+ },
+ {
+  "id": "securos/1-5mm-pax-extension-plate",
+  "name": "1.5mm PAX Extension Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 6,
+  "file": "implants/securos/1-5mm-pax-extension-plate.json"
+ },
+ {
+  "id": "securos/1-5mm-pax-l-plates",
+  "name": "1.5mm PAX L-Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 2,
+  "file": "implants/securos/1-5mm-pax-l-plates.json"
+ },
+ {
+  "id": "securos/1-5mm-pax-oblique-t-plates",
+  "name": "1.5mm PAX Oblique T-Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 2,
+  "file": "implants/securos/1-5mm-pax-oblique-t-plates.json"
+ },
+ {
+  "id": "securos/1-5mm-pax-straight-plate",
+  "name": "1.5mm PAX Straight Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 8,
+  "file": "implants/securos/1-5mm-pax-straight-plate.json"
+ },
+ {
+  "id": "securos/1-5mm-pax-t-plate",
+  "name": "1.5mm PAX T-Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 4,
+  "file": "implants/securos/1-5mm-pax-t-plate.json"
+ },
+ {
+  "id": "securos/2-0mm-pax-extension-plate",
+  "name": "2.0mm PAX Extension Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 2,
+  "file": "implants/securos/2-0mm-pax-extension-plate.json"
+ },
+ {
+  "id": "securos/2-0mm-pax-limited-contact-straight-plates",
+  "name": "2.0mm PAX Limited Contact Straight Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 7,
+  "file": "implants/securos/2-0mm-pax-limited-contact-straight-plates.json"
+ },
+ {
+  "id": "securos/2-0mm-pax-reconstruction-plate",
+  "name": "2.0mm PAX Reconstruction Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 9,
+  "file": "implants/securos/2-0mm-pax-reconstruction-plate.json"
+ },
+ {
+  "id": "securos/2-0mm-pax-t-plate",
+  "name": "2.0mm PAX T-Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 6,
+  "file": "implants/securos/2-0mm-pax-t-plate.json"
+ },
+ {
+  "id": "securos/2-4mm-pax-extention-plate",
+  "name": "2.4mm PAX Extention Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 3,
+  "file": "implants/securos/2-4mm-pax-extention-plate.json"
+ },
+ {
+  "id": "securos/2-4mm-pax-limited-contact-straight-plates",
+  "name": "2.4mm PAX Limited Contact Straight Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 9,
+  "file": "implants/securos/2-4mm-pax-limited-contact-straight-plates.json"
+ },
+ {
+  "id": "securos/2-4mm-pax-reconstruction-plate",
+  "name": "2.4mm PAX Reconstruction Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 9,
+  "file": "implants/securos/2-4mm-pax-reconstruction-plate.json"
+ },
+ {
+  "id": "securos/2-4mm-pax-t-plate",
+  "name": "2.4mm PAX T-Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 6,
+  "file": "implants/securos/2-4mm-pax-t-plate.json"
+ },
+ {
+  "id": "securos/2-7mm-pax-extention-plate",
+  "name": "2.7mm PAX Extention Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 3,
+  "file": "implants/securos/2-7mm-pax-extention-plate.json"
+ },
+ {
+  "id": "securos/2-7mm-pax-limited-contact-straight-plates",
+  "name": "2.7mm PAX Limited Contact Straight Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 10,
+  "file": "implants/securos/2-7mm-pax-limited-contact-straight-plates.json"
+ },
+ {
+  "id": "securos/2-7mm-pax-reconstruction-plate",
+  "name": "2.7mm PAX Reconstruction Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 10,
+  "file": "implants/securos/2-7mm-pax-reconstruction-plate.json"
+ },
+ {
+  "id": "securos/2-7mm-pax-t-plate",
+  "name": "2.7mm PAX T-Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 3,
+  "file": "implants/securos/2-7mm-pax-t-plate.json"
+ },
+ {
+  "id": "securos/3-5mm-pax-extension-plate",
+  "name": "3.5mm PAX Extension Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 2,
+  "file": "implants/securos/3-5mm-pax-extension-plate.json"
+ },
+ {
+  "id": "securos/3-5mm-pax-limited-contact-straight-plates",
+  "name": "3.5mm PAX Limited Contact Straight Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 15,
+  "file": "implants/securos/3-5mm-pax-limited-contact-straight-plates.json"
+ },
+ {
+  "id": "securos/3-5mm-pax-reconstruction-plate",
+  "name": "3.5mm PAX Reconstruction Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 13,
+  "file": "implants/securos/3-5mm-pax-reconstruction-plate.json"
+ },
+ {
+  "id": "securos/3-5mm-pax-t-plate",
+  "name": "3.5mm PAX T-Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 3,
+  "file": "implants/securos/3-5mm-pax-t-plate.json"
+ },
+ {
+  "id": "securos/distal-femur-osteotomy-dual-locking-plates-stainless-steel",
+  "name": "Distal Femur Osteotomy Dual Locking Plates - Stainless Steel",
+  "manufacturer": "Securos",
+  "family": "Distal Femur Osteotomy",
+  "variants": 4,
+  "file": "implants/securos/distal-femur-osteotomy-dual-locking-plates-stainless-steel.json"
+ },
+ {
+  "id": "securos/dual-locking-ccwo-stainless-steel",
+  "name": "Dual Locking CCWO Stainless Steel",
+  "manufacturer": "Securos",
+  "family": "CCWO Plates Stainless Steel",
+  "variants": 4,
+  "file": "implants/securos/dual-locking-ccwo-stainless-steel.json"
+ },
+ {
+  "id": "securos/dual-locking-tplo-stainless-steel",
+  "name": "Dual Locking TPLO Stainless Steel",
+  "manufacturer": "Securos",
+  "family": "TPLO Plates - Stainless",
+  "variants": 8,
+  "file": "implants/securos/dual-locking-tplo-stainless-steel.json"
+ },
+ {
+  "id": "securos/pancarpal-arthrodesis-dual-locking-plates",
+  "name": "Pancarpal Arthrodesis Dual Locking Plates",
+  "manufacturer": "Securos",
+  "family": "Pancarpal",
+  "variants": 9,
+  "file": "implants/securos/pancarpal-arthrodesis-dual-locking-plates.json"
+ },
+ {
+  "id": "securos/pax-ccwo-plate",
+  "name": "PAX CCWO Plate",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 5,
+  "file": "implants/securos/pax-ccwo-plate.json"
+ },
+ {
+  "id": "securos/pax-dpo-plates",
+  "name": "PAX DPO Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 8,
+  "file": "implants/securos/pax-dpo-plates.json"
+ },
+ {
+  "id": "securos/pax-tplo-securos",
+  "name": "PAX TPLO Securos",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 6,
+  "file": "implants/securos/pax-tplo-securos.json"
+ },
+ {
+  "id": "securos/pax-tpo-plates",
+  "name": "PAX TPO Plates",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 5,
+  "file": "implants/securos/pax-tpo-plates.json"
+ },
+ {
+  "id": "securos/straight-plates-dual-locking",
+  "name": "Straight Plates - Dual Locking",
+  "manufacturer": "Securos",
+  "family": "STRAIGHT PLATES",
+  "variants": 12,
+  "file": "implants/securos/straight-plates-dual-locking.json"
+ },
+ {
+  "id": "securos/t-y-plate-dual-locking-stainless-steel",
+  "name": "T - Y Plate Dual Locking Stainless Steel",
+  "manufacturer": "Securos",
+  "family": "Stainless Steel T Plates",
+  "variants": 15,
+  "file": "implants/securos/t-y-plate-dual-locking-stainless-steel.json"
+ },
+ {
+  "id": "securos/tta-cages-standard-cuttable",
+  "name": "TTA Cages - Standard & Cuttable",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 9,
+  "file": "implants/securos/tta-cages-standard-cuttable.json"
+ },
+ {
+  "id": "securos/tta-plates-forkless",
+  "name": "TTA Plates - forkless",
+  "manufacturer": "Securos",
+  "family": null,
+  "variants": 6,
+  "file": "implants/securos/tta-plates-forkless.json"
+ },
+ {
+  "id": "steelvet/1-5-mm-l-locking-plate",
+  "name": "1.5 mm “L” Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "L-Shaped Locking Plates",
+  "variants": 1,
+  "file": "implants/steelvet/1-5-mm-l-locking-plate.json"
+ },
+ {
+  "id": "steelvet/1-5-mm-oblique-l-locking-plate",
+  "name": "1.5 mm Oblique “L” Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "L-Shaped Plates",
+  "variants": 2,
+  "file": "implants/steelvet/1-5-mm-oblique-l-locking-plate.json"
+ },
+ {
+  "id": "steelvet/1-5-mm-straight-locking-plate",
+  "name": "1.5 mm Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 3,
+  "file": "implants/steelvet/1-5-mm-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/1-5-mm-t-locking-plate",
+  "name": "1.5 mm “T” Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "T-Shaped Locking Plates",
+  "variants": 3,
+  "file": "implants/steelvet/1-5-mm-t-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-0-mm-flat-straight-locking-plate",
+  "name": "2.0 mm Flat Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 9,
+  "file": "implants/steelvet/2-0-mm-flat-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-0-mm-herbert-cannulated-screws",
+  "name": "2.0 mm Herbert Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 11,
+  "file": "implants/steelvet/2-0-mm-herbert-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/2-0-mm-straight-locking-plate",
+  "name": "2.0 mm Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 9,
+  "file": "implants/steelvet/2-0-mm-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-0-mm-t-locking-plate-with-rotation",
+  "name": "2.0 mm “T” Locking Plate with Rotation",
+  "manufacturer": "Steelvet",
+  "family": "T-Shaped Locking Plates",
+  "variants": 2,
+  "file": "implants/steelvet/2-0-mm-t-locking-plate-with-rotation.json"
+ },
+ {
+  "id": "steelvet/2-4-mm-flat-straight-locking-plate",
+  "name": "2.4 mm Flat Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 9,
+  "file": "implants/steelvet/2-4-mm-flat-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-4-mm-straight-locking-plate",
+  "name": "2.4 mm Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 9,
+  "file": "implants/steelvet/2-4-mm-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-5-mm-compression-cannulated-screws",
+  "name": "2.5 mm Compression Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 15,
+  "file": "implants/steelvet/2-5-mm-compression-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/2-5-mm-conventional-cannulated-screw",
+  "name": "2.5 mm Conventional Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 11,
+  "file": "implants/steelvet/2-5-mm-conventional-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/2-5-mm-herbert-cannulated-screws",
+  "name": "2.5 mm Herbert Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 16,
+  "file": "implants/steelvet/2-5-mm-herbert-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/2-7-mm-flat-straight-locking-plate",
+  "name": "2.7 mm Flat Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 10,
+  "file": "implants/steelvet/2-7-mm-flat-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-7-mm-straight-locking-plate",
+  "name": "2.7 mm Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 10,
+  "file": "implants/steelvet/2-7-mm-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/2-7-mm-t-locking-plate-with-rotation",
+  "name": "2.7 mm “T” Locking Plate with Rotation",
+  "manufacturer": "Steelvet",
+  "family": "T-Shaped Locking Plates",
+  "variants": 2,
+  "file": "implants/steelvet/2-7-mm-t-locking-plate-with-rotation.json"
+ },
+ {
+  "id": "steelvet/3-0-mm-compression-cannulated-screws",
+  "name": "3.0 mm Compression Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 11,
+  "file": "implants/steelvet/3-0-mm-compression-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/3-0-mm-conventional-cannulated-screws",
+  "name": "3.0 mm Conventional Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 16,
+  "file": "implants/steelvet/3-0-mm-conventional-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/3-0-mm-herbert-cannulated-screws",
+  "name": "3.0 mm Herbert Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 16,
+  "file": "implants/steelvet/3-0-mm-herbert-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-broad-straight-locking-plate",
+  "name": "3.5 mm Broad Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 14,
+  "file": "implants/steelvet/3-5-mm-broad-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-compression-cannulated-screws",
+  "name": "3.5 mm Compression Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 13,
+  "file": "implants/steelvet/3-5-mm-compression-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-conventional-cannulated-screw",
+  "name": "3.5 mm Conventional Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 13,
+  "file": "implants/steelvet/3-5-mm-conventional-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-herbert-cannulated-screw",
+  "name": "3.5 mm Herbert Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 14,
+  "file": "implants/steelvet/3-5-mm-herbert-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-medial-humerus-locking-plate",
+  "name": "3.5 mm Medial Humerus Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 2,
+  "file": "implants/steelvet/3-5-mm-medial-humerus-locking-plate.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-narrow-straight-locking-plate",
+  "name": "3.5 mm Narrow Straight Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 18,
+  "file": "implants/steelvet/3-5-mm-narrow-straight-locking-plate.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-reconstruction-locking-plate",
+  "name": "3.5 mm Reconstruction Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Straight Locking Plates",
+  "variants": 4,
+  "file": "implants/steelvet/3-5-mm-reconstruction-locking-plate.json"
+ },
+ {
+  "id": "steelvet/3-5-mm-volar-locking-plate",
+  "name": "3.5 mm Volar Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Volar Locking Plate",
+  "variants": 20,
+  "file": "implants/steelvet/3-5-mm-volar-locking-plate.json"
+ },
+ {
+  "id": "steelvet/3-5mm-reconstruction-t-locking-plate",
+  "name": "3.5mm Reconstruction '\"T'\" Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "T-Shaped Locking Plates",
+  "variants": 4,
+  "file": "implants/steelvet/3-5mm-reconstruction-t-locking-plate.json"
+ },
+ {
+  "id": "steelvet/4-0-mm-compression-cannulated-screws",
+  "name": "4.0 mm Compression Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 11,
+  "file": "implants/steelvet/4-0-mm-compression-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/4-0-mm-conventional-cannulated-screw",
+  "name": "4.0 mm Conventional Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 13,
+  "file": "implants/steelvet/4-0-mm-conventional-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/4-0-mm-herbert-cannulated-screw",
+  "name": "4.0 mm Herbert Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 12,
+  "file": "implants/steelvet/4-0-mm-herbert-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/4-5-mm-compression-cannulated-screw",
+  "name": "4.5 mm Compression Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 7,
+  "file": "implants/steelvet/4-5-mm-compression-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/4-5-mm-conventional-cannulated-screws",
+  "name": "4.5 mm Conventional Cannulated Screws",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 8,
+  "file": "implants/steelvet/4-5-mm-conventional-cannulated-screws.json"
+ },
+ {
+  "id": "steelvet/4-5-mm-herbert-cannulated-screw",
+  "name": "4.5 mm Herbert Cannulated Screw",
+  "manufacturer": "Steelvet",
+  "family": "Cannulated Screws",
+  "variants": 7,
+  "file": "implants/steelvet/4-5-mm-herbert-cannulated-screw.json"
+ },
+ {
+  "id": "steelvet/acetabular-locking-plate",
+  "name": "Acetabular Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 5,
+  "file": "implants/steelvet/acetabular-locking-plate.json"
+ },
+ {
+  "id": "steelvet/ccwo-locking-plate",
+  "name": "CCWO Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "CCWO Locking Plates",
+  "variants": 13,
+  "file": "implants/steelvet/ccwo-locking-plate.json"
+ },
+ {
+  "id": "steelvet/coxal-locking-plate",
+  "name": "Coxal Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 9,
+  "file": "implants/steelvet/coxal-locking-plate.json"
+ },
+ {
+  "id": "steelvet/distal-femoral-osteotomy-dfo-locking-plate",
+  "name": "Distal Femoral Osteotomy (DFO) Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 6,
+  "file": "implants/steelvet/distal-femoral-osteotomy-dfo-locking-plate.json"
+ },
+ {
+  "id": "steelvet/distal-femur-locking-plate",
+  "name": "Distal Femur Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 7,
+  "file": "implants/steelvet/distal-femur-locking-plate.json"
+ },
+ {
+  "id": "steelvet/distal-tibia-locking-plate",
+  "name": "Distal Tibia Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 10,
+  "file": "implants/steelvet/distal-tibia-locking-plate.json"
+ },
+ {
+  "id": "steelvet/dorsal-pancarpal-locking-plate",
+  "name": "Dorsal Pancarpal Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 18,
+  "file": "implants/steelvet/dorsal-pancarpal-locking-plate.json"
+ },
+ {
+  "id": "steelvet/medial-pantarsal-locking-plate",
+  "name": "Medial Pantarsal Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 18,
+  "file": "implants/steelvet/medial-pantarsal-locking-plate.json"
+ },
+ {
+  "id": "steelvet/proximal-tibia-locking-plate",
+  "name": "Proximal Tibia Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "Special Locking Plates",
+  "variants": 2,
+  "file": "implants/steelvet/proximal-tibia-locking-plate.json"
+ },
+ {
+  "id": "steelvet/t-locking-plate",
+  "name": "“T” Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": null,
+  "variants": 2,
+  "file": "implants/steelvet/t-locking-plate.json"
+ },
+ {
+  "id": "steelvet/tplo-locking-plate",
+  "name": "TPLO Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "TPLO Locking Plates",
+  "variants": 14,
+  "file": "implants/steelvet/tplo-locking-plate.json"
+ },
+ {
+  "id": "steelvet/tplo-modified-locking-plate",
+  "name": "TPLO-Modified Locking Plate",
+  "manufacturer": "Steelvet",
+  "family": "TPLO Locking Plates",
+  "variants": 21,
+  "file": "implants/steelvet/tplo-modified-locking-plate.json"
+ },
+ {
+  "id": "surg-x/interlocking-nail-3-5mm-cats-small-dogs-set",
+  "name": "Interlocking Nail 3.5mm Cats & Small Dogs Set",
+  "manufacturer": "Surg'X",
+  "family": null,
+  "variants": 10,
+  "file": "implants/surg-x/interlocking-nail-3-5mm-cats-small-dogs-set.json"
+ },
+ {
+  "id": "surg-x/interlocking-nail-4mm-cats-small-dogs-set",
+  "name": "Interlocking Nail 4mm Cats & Small Dogs Set",
+  "manufacturer": "Surg'X",
+  "family": null,
+  "variants": 9,
+  "file": "implants/surg-x/interlocking-nail-4mm-cats-small-dogs-set.json"
+ },
+ {
+  "id": "surg-x/interlocking-nail-5mm-cats-small-dogs-set",
+  "name": "Interlocking Nail 5mm Cats & Small Dogs Set",
+  "manufacturer": "Surg'X",
+  "family": null,
+  "variants": 8,
+  "file": "implants/surg-x/interlocking-nail-5mm-cats-small-dogs-set.json"
+ },
+ {
+  "id": "surg-x/interlocking-nail-5mm-medium-large-dog-set",
+  "name": "Interlocking Nail 5mm Medium & Large Dog Set",
+  "manufacturer": "Surg'X",
+  "family": null,
+  "variants": 6,
+  "file": "implants/surg-x/interlocking-nail-5mm-medium-large-dog-set.json"
+ },
+ {
+  "id": "surg-x/interlocking-nail-6mm-medium-large-dog-set",
+  "name": "Interlocking Nail 6mm Medium & Large Dog Set",
+  "manufacturer": "Surg'X",
+  "family": null,
+  "variants": 8,
+  "file": "implants/surg-x/interlocking-nail-6mm-medium-large-dog-set.json"
+ },
+ {
+  "id": "surg-x/interlocking-nail-8mm-medium-large-dog-set",
+  "name": "Interlocking Nail 8mm Medium & Large Dog Set",
+  "manufacturer": "Surg'X",
+  "family": null,
+  "variants": 8,
+  "file": "implants/surg-x/interlocking-nail-8mm-medium-large-dog-set.json"
+ },
+ {
+  "id": "synthes/1-5-2-0mm-lcp-thickness-1-2mm",
+  "name": "1.5/2.0mm LCP thickness 1.2mm",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 4,
+  "file": "implants/synthes/1-5-2-0mm-lcp-thickness-1-2mm.json"
+ },
+ {
+  "id": "synthes/1-5-2-0mm-lcp-thickness-1-5mm",
+  "name": "1.5/2.0mm LCP thickness 1.5mm",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 7,
+  "file": "implants/synthes/1-5-2-0mm-lcp-thickness-1-5mm.json"
+ },
+ {
+  "id": "synthes/1-5-mm-modular-lcp",
+  "name": "1.5 mm Modular LCP",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 9,
+  "file": "implants/synthes/1-5-mm-modular-lcp.json"
+ },
+ {
+  "id": "synthes/2-4mm-countersink-compression-screw",
+  "name": "2.4mm Countersink Compression Screw",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 7,
+  "file": "implants/synthes/2-4mm-countersink-compression-screw.json"
+ },
+ {
+  "id": "synthes/2-4mm-lcp-thickness-1-7mm",
+  "name": "2.4mm LCP thickness 1.7mm",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 5,
+  "file": "implants/synthes/2-4mm-lcp-thickness-1-7mm.json"
+ },
+ {
+  "id": "synthes/2-4mm-lcp-thickness-2-0mm",
+  "name": "2.4mm LCP thickness 2.0mm",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 7,
+  "file": "implants/synthes/2-4mm-lcp-thickness-2-0mm.json"
+ },
+ {
+  "id": "synthes/2-7mm-lcp",
+  "name": "2.7mm LCP",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 11,
+  "file": "implants/synthes/2-7mm-lcp.json"
+ },
+ {
+  "id": "synthes/3-0mm-countersink-compression-screw",
+  "name": "3.0mm Countersink Compression Screw",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 11,
+  "file": "implants/synthes/3-0mm-countersink-compression-screw.json"
+ },
+ {
+  "id": "synthes/3-5mm-broad-lcp",
+  "name": "3.5mm Broad LCP",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 14,
+  "file": "implants/synthes/3-5mm-broad-lcp.json"
+ },
+ {
+  "id": "synthes/3-5mm-dpo-tpo-plate",
+  "name": "3.5mm DPO/TPO Plate",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 3,
+  "file": "implants/synthes/3-5mm-dpo-tpo-plate.json"
+ },
+ {
+  "id": "synthes/3-5mm-lcp",
+  "name": "3.5mm LCP",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 18,
+  "file": "implants/synthes/3-5mm-lcp.json"
+ },
+ {
+  "id": "synthes/4-5mm-countersink-compression-screw",
+  "name": "4.5mm Countersink Compression Screw",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 24,
+  "file": "implants/synthes/4-5mm-countersink-compression-screw.json"
+ },
+ {
+  "id": "synthes/4-5mm-lcp-t-plate",
+  "name": "4.5mm LCP T-Plate",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 3,
+  "file": "implants/synthes/4-5mm-lcp-t-plate.json"
+ },
+ {
+  "id": "synthes/4-5mm-locking-t-plate",
+  "name": "4.5mm Locking T-Plate",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 4,
+  "file": "implants/synthes/4-5mm-locking-t-plate.json"
+ },
+ {
+  "id": "synthes/4-5mm-narrow-lcp-plate-for-pip-arthrodesis",
+  "name": "4.5mm Narrow LCP Plate for PIP Arthrodesis",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 1,
+  "file": "implants/synthes/4-5mm-narrow-lcp-plate-for-pip-arthrodesis.json"
+ },
+ {
+  "id": "synthes/5-0mm-lcp-distal-femur",
+  "name": "5.0mm LCP Distal Femur",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 5,
+  "file": "implants/synthes/5-0mm-lcp-distal-femur.json"
+ },
+ {
+  "id": "synthes/5-5mm-lcp",
+  "name": "5.5mm LCP",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 9,
+  "file": "implants/synthes/5-5mm-lcp.json"
+ },
+ {
+  "id": "synthes/arc-tplo",
+  "name": "(ARC) TPLO",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 1,
+  "file": "implants/synthes/arc-tplo.json"
+ },
+ {
+  "id": "synthes/kirchner-wires",
+  "name": "Kirchner Wires",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 8,
+  "file": "implants/synthes/kirchner-wires.json"
+ },
+ {
+  "id": "synthes/lcp-distal-femoral-osteotomy-plate",
+  "name": "LCP distal femoral osteotomy plate",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 2,
+  "file": "implants/synthes/lcp-distal-femoral-osteotomy-plate.json"
+ },
+ {
+  "id": "synthes/lcp-notched-t-plate",
+  "name": "LCP Notched T Plate",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 3,
+  "file": "implants/synthes/lcp-notched-t-plate.json"
+ },
+ {
+  "id": "synthes/pancarpal-arthrodesis",
+  "name": "Pancarpal Arthrodesis",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 3,
+  "file": "implants/synthes/pancarpal-arthrodesis.json"
+ },
+ {
+  "id": "synthes/steinman-pins",
+  "name": "Steinman Pins",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 11,
+  "file": "implants/synthes/steinman-pins.json"
+ },
+ {
+  "id": "synthes/tplo-synthes",
+  "name": "TPLO Synthes",
+  "manufacturer": "Synthes",
+  "family": null,
+  "variants": 6,
+  "file": "implants/synthes/tplo-synthes.json"
+ },
+ {
+  "id": "veterinary-instrumentation/1-5-2-0mm-combi-locking-t-plates",
+  "name": "1.5/2.0mm Combi Locking T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 16,
+  "file": "implants/veterinary-instrumentation/1-5-2-0mm-combi-locking-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/1-5-mm-butterfly-plates",
+  "name": "1.5 mm Butterfly Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/1-5-mm-butterfly-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/1-5mm-compression-plates",
+  "name": "1.5mm Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": "Compression Plate",
+  "variants": 1,
+  "file": "implants/veterinary-instrumentation/1-5mm-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/1-5mm-dynamic-locking-plates",
+  "name": "1.5mm Dynamic Locking Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 9,
+  "file": "implants/veterinary-instrumentation/1-5mm-dynamic-locking-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/1-5mm-locking-t-plate",
+  "name": "1.5mm Locking T-Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 1,
+  "file": "implants/veterinary-instrumentation/1-5mm-locking-t-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0-mm-biological-healing-plates",
+  "name": "2.0 mm Biological Healing Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 5,
+  "file": "implants/veterinary-instrumentation/2-0-mm-biological-healing-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0-mm-butterfly-plates",
+  "name": "2.0 mm Butterfly Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/2-0-mm-butterfly-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0-mm-compression-plates",
+  "name": "2.0 mm Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 10,
+  "file": "implants/veterinary-instrumentation/2-0-mm-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0-mm-stacked-hole-locking-plates",
+  "name": "2.0 mm Stacked Hole Locking Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 11,
+  "file": "implants/veterinary-instrumentation/2-0-mm-stacked-hole-locking-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0mm-asym-plates",
+  "name": "2.0mm ASYM® Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-instrumentation/2-0mm-asym-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0mm-dynamic-locking-plates",
+  "name": "2.0mm Dynamic Locking Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 11,
+  "file": "implants/veterinary-instrumentation/2-0mm-dynamic-locking-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0mm-locking-t-plates",
+  "name": "2.0mm Locking T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/2-0mm-locking-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-0mm-mini-plates",
+  "name": "2.0mm Mini Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 5,
+  "file": "implants/veterinary-instrumentation/2-0mm-mini-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4-2-7mm-combi-locking-t-plates",
+  "name": "2.4/2.7mm Combi Locking T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-instrumentation/2-4-2-7mm-combi-locking-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4-2-7mm-locking-t-plates",
+  "name": "2.4/2.7mm  Locking T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 4,
+  "file": "implants/veterinary-instrumentation/2-4-2-7mm-locking-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4-mm-butterfly-plates",
+  "name": "2.4 mm Butterfly Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/2-4-mm-butterfly-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4-mm-t-plates",
+  "name": "2.4 mm T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 8,
+  "file": "implants/veterinary-instrumentation/2-4-mm-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4mm-asym-plates",
+  "name": "2.4mm ASYM® Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 12,
+  "file": "implants/veterinary-instrumentation/2-4mm-asym-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4mm-compression-plates",
+  "name": "2.4mm Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 11,
+  "file": "implants/veterinary-instrumentation/2-4mm-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4mm-dynamic-locking-compression-1-7mm-thick",
+  "name": "2.4mm Dynamic Locking Compression (1.7mm thick)",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 7,
+  "file": "implants/veterinary-instrumentation/2-4mm-dynamic-locking-compression-1-7mm-thick.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-4mm-dynamic-locking-compression-plates",
+  "name": "2.4mm Dynamic Locking Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 13,
+  "file": "implants/veterinary-instrumentation/2-4mm-dynamic-locking-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-7-mm-butterfly-plates",
+  "name": "2.7 mm Butterfly Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/2-7-mm-butterfly-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-7mm-asym-plates",
+  "name": "2.7mm ASYM® Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 14,
+  "file": "implants/veterinary-instrumentation/2-7mm-asym-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-7mm-compression-plates",
+  "name": "2.7mm Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 12,
+  "file": "implants/veterinary-instrumentation/2-7mm-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-7mm-dynamic-locking-compression-plate",
+  "name": "2.7mm  Dynamic Locking Compression Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 15,
+  "file": "implants/veterinary-instrumentation/2-7mm-dynamic-locking-compression-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/2-7mm-t-plates",
+  "name": "2.7mm T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 11,
+  "file": "implants/veterinary-instrumentation/2-7mm-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5-asym-plates",
+  "name": "3.5 ASYM® Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 16,
+  "file": "implants/veterinary-instrumentation/3-5-asym-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5-broad-dcp",
+  "name": "3.5 Broad DCP",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 16,
+  "file": "implants/veterinary-instrumentation/3-5-broad-dcp.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5-dcp",
+  "name": "3.5 DCP",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 14,
+  "file": "implants/veterinary-instrumentation/3-5-dcp.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5-mm-dynamic-locking-compression-plates",
+  "name": "3.5 mm Dynamic Locking Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 15,
+  "file": "implants/veterinary-instrumentation/3-5-mm-dynamic-locking-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-broad-biological-healing-plates",
+  "name": "3.5mm Broad Biological Healing Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 5,
+  "file": "implants/veterinary-instrumentation/3-5mm-broad-biological-healing-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-broad-dynamic-locking-plates",
+  "name": "3.5mm Broad Dynamic Locking Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 12,
+  "file": "implants/veterinary-instrumentation/3-5mm-broad-dynamic-locking-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-combi-locking-t-plates",
+  "name": "3.5mm Combi Locking T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/3-5mm-combi-locking-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-dynamic-locking-plate",
+  "name": "3.5mm Dynamic Locking Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 15,
+  "file": "implants/veterinary-instrumentation/3-5mm-dynamic-locking-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-if-compression-plate",
+  "name": "3.5mm IF compression Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 1,
+  "file": "implants/veterinary-instrumentation/3-5mm-if-compression-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-limited-contact-compression-plates",
+  "name": "3.5mm Limited Contact Compression Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 12,
+  "file": "implants/veterinary-instrumentation/3-5mm-limited-contact-compression-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/3-5mm-locking-t-plates",
+  "name": "3.5mm Locking T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 5,
+  "file": "implants/veterinary-instrumentation/3-5mm-locking-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/combi-locking-feline-supracondylar",
+  "name": "Combi Locking Feline Supracondylar",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 1,
+  "file": "implants/veterinary-instrumentation/combi-locking-feline-supracondylar.json"
+ },
+ {
+  "id": "veterinary-instrumentation/combi-partial-tarsal-arthrodesis-plate",
+  "name": "Combi Partial Tarsal Arthrodesis Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": "Combi Partial Tarsal Arthrodesis Plate",
+  "variants": 4,
+  "file": "implants/veterinary-instrumentation/combi-partial-tarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/cuttable-malleable-locking-plates",
+  "name": "Cuttable Malleable Locking Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-instrumentation/cuttable-malleable-locking-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/dorsal-pantarsal-arthrodesis-plate",
+  "name": "Dorsal Pantarsal Arthrodesis Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 2,
+  "file": "implants/veterinary-instrumentation/dorsal-pantarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/elbow-arthrodesis-plate",
+  "name": "Elbow Arthrodesis plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 2,
+  "file": "implants/veterinary-instrumentation/elbow-arthrodesis-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/feline-forelimb-salvage-plate",
+  "name": "Feline Forelimb Salvage Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 1,
+  "file": "implants/veterinary-instrumentation/feline-forelimb-salvage-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/hybrid-anatomical-t-plates",
+  "name": "Hybrid Anatomical T-Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-instrumentation/hybrid-anatomical-t-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/limb-salvage-plates",
+  "name": "Limb Salvage Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 4,
+  "file": "implants/veterinary-instrumentation/limb-salvage-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/locking-pancarpal-arthrodesis",
+  "name": "Locking Pancarpal Arthrodesis",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 8,
+  "file": "implants/veterinary-instrumentation/locking-pancarpal-arthrodesis.json"
+ },
+ {
+  "id": "veterinary-instrumentation/lokrod-plates",
+  "name": "LokRod™ Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 5,
+  "file": "implants/veterinary-instrumentation/lokrod-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/pancarpal-arthrodesis",
+  "name": "Pancarpal Arthrodesis",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 13,
+  "file": "implants/veterinary-instrumentation/pancarpal-arthrodesis.json"
+ },
+ {
+  "id": "veterinary-instrumentation/pantarsal-arthrodesis-plate",
+  "name": "Pantarsal Arthrodesis plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 13,
+  "file": "implants/veterinary-instrumentation/pantarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/partial-tarsal-arthrodesis-plate",
+  "name": "Partial Tarsal Arthrodesis Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 9,
+  "file": "implants/veterinary-instrumentation/partial-tarsal-arthrodesis-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/robin-stratton-vi-pta-plate",
+  "name": "Robin Stratton & VI PTA plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 2,
+  "file": "implants/veterinary-instrumentation/robin-stratton-vi-pta-plate.json"
+ },
+ {
+  "id": "veterinary-instrumentation/supracondylar-plates",
+  "name": "Supracondylar Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 17,
+  "file": "implants/veterinary-instrumentation/supracondylar-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/tplo-clover-type",
+  "name": "TPLO Clover type",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 19,
+  "file": "implants/veterinary-instrumentation/tplo-clover-type.json"
+ },
+ {
+  "id": "veterinary-instrumentation/tplo-plate-slocum-style",
+  "name": "TPLO Plate Slocum style",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-instrumentation/tplo-plate-slocum-style.json"
+ },
+ {
+  "id": "veterinary-instrumentation/tta-cages-standard-cuttable",
+  "name": "TTA Cages - Standard & Cuttable",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 9,
+  "file": "implants/veterinary-instrumentation/tta-cages-standard-cuttable.json"
+ },
+ {
+  "id": "veterinary-instrumentation/tta-forked-plates",
+  "name": "TTA Forked Plates",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 7,
+  "file": "implants/veterinary-instrumentation/tta-forked-plates.json"
+ },
+ {
+  "id": "veterinary-instrumentation/tta-plates-forkless",
+  "name": "TTA Plates - forkless",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-instrumentation/tta-plates-forkless.json"
+ },
+ {
+  "id": "veterinary-instrumentation/vi-locking-tplo",
+  "name": "VI Locking Tplo",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": null,
+  "variants": 7,
+  "file": "implants/veterinary-instrumentation/vi-locking-tplo.json"
+ },
+ {
+  "id": "veterinary-instrumentation/vision-locking-tplo-plate",
+  "name": "ViSION Locking TPLO Plate",
+  "manufacturer": "Veterinary Instrumentation",
+  "family": "TPLO Plates",
+  "variants": 3,
+  "file": "implants/veterinary-instrumentation/vision-locking-tplo-plate.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/1-5mm-lcp",
+  "name": "1.5mm LCP",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 4,
+  "file": "implants/veterinary-orthopaedics/1-5mm-lcp.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/2-0mm-lcp",
+  "name": "2.0mm LCP",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 6,
+  "file": "implants/veterinary-orthopaedics/2-0mm-lcp.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/2-4mm-lcp",
+  "name": "2.4mm LCP",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 10,
+  "file": "implants/veterinary-orthopaedics/2-4mm-lcp.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/2-7mm-lcp",
+  "name": "2.7mm LCP",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 12,
+  "file": "implants/veterinary-orthopaedics/2-7mm-lcp.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/3-5mm-lcp",
+  "name": "3.5mm LCP",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 12,
+  "file": "implants/veterinary-orthopaedics/3-5mm-lcp.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/apollo-tplo-plate",
+  "name": "Apollo TPLO plate",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 10,
+  "file": "implants/veterinary-orthopaedics/apollo-tplo-plate.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/cblo-ccwo-plates",
+  "name": "CBLO CCWO Plates",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 3,
+  "file": "implants/veterinary-orthopaedics/cblo-ccwo-plates.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/distal-lateral-humerus-locking-plate",
+  "name": "Distal Lateral Humerus Locking Plate",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 2,
+  "file": "implants/veterinary-orthopaedics/distal-lateral-humerus-locking-plate.json"
+ },
+ {
+  "id": "veterinary-orthopaedics/t-locking-plate",
+  "name": "T-Locking Plate",
+  "manufacturer": "Veterinary Orthopaedics",
+  "family": null,
+  "variants": 5,
+  "file": "implants/veterinary-orthopaedics/t-locking-plate.json"
+ },
+ {
+  "id": "vetmaker/distal-straight-locking-plate",
+  "name": "Distal Straight Locking Plate",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 2,
+  "file": "implants/vetmaker/distal-straight-locking-plate.json"
+ },
+ {
+  "id": "vetmaker/l-plates",
+  "name": "L Plates",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 2,
+  "file": "implants/vetmaker/l-plates.json"
+ },
+ {
+  "id": "vetmaker/locking-bridge-plate-system-1-3",
+  "name": "Locking bridge plate system 1.3",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 2,
+  "file": "implants/vetmaker/locking-bridge-plate-system-1-3.json"
+ },
+ {
+  "id": "vetmaker/locking-bridge-plate-system-1-7",
+  "name": "Locking bridge plate system 1.7",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 3,
+  "file": "implants/vetmaker/locking-bridge-plate-system-1-7.json"
+ },
+ {
+  "id": "vetmaker/locking-bridge-plate-system-2-0",
+  "name": "Locking bridge plate system 2.0",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 2,
+  "file": "implants/vetmaker/locking-bridge-plate-system-2-0.json"
+ },
+ {
+  "id": "vetmaker/locking-bridge-plate-system-2-7",
+  "name": "Locking bridge plate system 2.7",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 2,
+  "file": "implants/vetmaker/locking-bridge-plate-system-2-7.json"
+ },
+ {
+  "id": "vetmaker/locking-bridge-plate-system-3-5",
+  "name": "Locking bridge plate system 3.5",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 2,
+  "file": "implants/vetmaker/locking-bridge-plate-system-3-5.json"
+ },
+ {
+  "id": "vetmaker/locking-tplo",
+  "name": "Locking TPLO",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 7,
+  "file": "implants/vetmaker/locking-tplo.json"
+ },
+ {
+  "id": "vetmaker/reconstruction-locking-plates",
+  "name": "Reconstruction Locking Plates",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 5,
+  "file": "implants/vetmaker/reconstruction-locking-plates.json"
+ },
+ {
+  "id": "vetmaker/straight-locking-plates-system-1-3",
+  "name": "Straight Locking Plates system 1.3",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 3,
+  "file": "implants/vetmaker/straight-locking-plates-system-1-3.json"
+ },
+ {
+  "id": "vetmaker/straight-locking-plates-system-1-7",
+  "name": "Straight Locking Plates System 1.7",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 4,
+  "file": "implants/vetmaker/straight-locking-plates-system-1-7.json"
+ },
+ {
+  "id": "vetmaker/straight-locking-plates-system-2-0",
+  "name": "Straight Locking Plates System 2.0",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 4,
+  "file": "implants/vetmaker/straight-locking-plates-system-2-0.json"
+ },
+ {
+  "id": "vetmaker/straight-locking-plates-system-2-7",
+  "name": "Straight Locking Plates System 2.7",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 7,
+  "file": "implants/vetmaker/straight-locking-plates-system-2-7.json"
+ },
+ {
+  "id": "vetmaker/straight-locking-plates-system-3-5",
+  "name": "Straight Locking Plates System 3.5",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 7,
+  "file": "implants/vetmaker/straight-locking-plates-system-3-5.json"
+ },
+ {
+  "id": "vetmaker/supracondylar-locking-plate",
+  "name": "Supracondylar locking plate",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 4,
+  "file": "implants/vetmaker/supracondylar-locking-plate.json"
+ },
+ {
+  "id": "vetmaker/t-plates",
+  "name": "T PLATES",
+  "manufacturer": "VETMAKER",
+  "family": null,
+  "variants": 10,
+  "file": "implants/vetmaker/t-plates.json"
+ },
+ {
+  "id": "vetmaster/cemented-thr-femoral-stems",
+  "name": "Cemented THR - Femoral Stems",
+  "manufacturer": "Vetmaster",
+  "family": "THR - Femoral Components",
+  "variants": 16,
+  "file": "implants/vetmaster/cemented-thr-femoral-stems.json"
+ },
+ {
+  "id": "vetmaster/cementless-thr-alo-planning-10-retroversion",
+  "name": "Cementless THR - ALO Planning (10° Retroversion)",
+  "manufacturer": "Vetmaster",
+  "family": "THR - Planning Tools & Templates",
+  "variants": 84,
+  "file": "implants/vetmaster/cementless-thr-alo-planning-10-retroversion.json"
+ },
+ {
+  "id": "vetmaster/cementless-thr-femoral-stems",
+  "name": "Cementless THR - Femoral Stems",
+  "manufacturer": "Vetmaster",
+  "family": "THR - Femoral Components",
+  "variants": 21,
+  "file": "implants/vetmaster/cementless-thr-femoral-stems.json"
+ },
+ {
+  "id": "vetmaster/cementless-thr-head-neck-assemblies",
+  "name": "Cementless THR - Head & Neck Assemblies",
+  "manufacturer": "Vetmaster",
+  "family": null,
+  "variants": 29,
+  "file": "implants/vetmaster/cementless-thr-head-neck-assemblies.json"
+ },
+ {
+  "id": "vetmaster/cementless-thr-hip-cups",
+  "name": "Cementless THR - Hip Cups",
+  "manufacturer": "Vetmaster",
+  "family": "THR - Acetabular Components",
+  "variants": 12,
+  "file": "implants/vetmaster/cementless-thr-hip-cups.json"
+ },
+ {
+  "id": "vetmaster/cementless-tka-femoral-components",
+  "name": "Cementless TKA - Femoral Components",
+  "manufacturer": "Vetmaster",
+  "family": "TKA - Femoral Components",
+  "variants": 16,
+  "file": "implants/vetmaster/cementless-tka-femoral-components.json"
+ },
+ {
+  "id": "vetmaster/cementless-tka-tibial-components",
+  "name": "Cementless TKA - Tibial Components",
+  "manufacturer": "Vetmaster",
+  "family": "TKA - Tibial Components",
+  "variants": 48,
+  "file": "implants/vetmaster/cementless-tka-tibial-components.json"
+ },
+ {
+  "id": "vetrust/aniverse-p-cup",
+  "name": "ANIVERSE™ P Cup",
+  "manufacturer": "VeTrust",
+  "family": "P Cup",
+  "variants": 11,
+  "file": "implants/vetrust/aniverse-p-cup.json"
+ },
+ {
+  "id": "vetrust/aniverse-pts",
+  "name": "ANIVERSE™ PTS",
+  "manufacturer": "VeTrust",
+  "family": "PTS",
+  "variants": 9,
+  "file": "implants/vetrust/aniverse-pts.json"
+ },
+ {
+  "id": "vetrust/aniverse-vet-stem",
+  "name": "ANIVERSE™ Vet Stem",
+  "manufacturer": "VeTrust",
+  "family": "Femoral stem",
+  "variants": 10,
+  "file": "implants/vetrust/aniverse-vet-stem.json"
+ },
+ {
+  "id": "vetwelding/acetabular-plate",
+  "name": "Acetabular Plate",
+  "manufacturer": "VetWelding",
+  "family": "HyLock",
+  "variants": 1,
+  "file": "implants/vetwelding/acetabular-plate.json"
+ },
+ {
+  "id": "vetwelding/l-plate",
+  "name": "L-Plate",
+  "manufacturer": "VetWelding",
+  "family": "HyLock",
+  "variants": 2,
+  "file": "implants/vetwelding/l-plate.json"
+ },
+ {
+  "id": "vetwelding/locking-t-plate",
+  "name": "Locking T-Plate",
+  "manufacturer": "VetWelding",
+  "family": "HyLock",
+  "variants": 4,
+  "file": "implants/vetwelding/locking-t-plate.json"
+ },
+ {
+  "id": "vetwelding/straight-reconstruction-plate",
+  "name": "Straight Reconstruction Plate",
+  "manufacturer": "VetWelding",
+  "family": "HyLock",
+  "variants": 6,
+  "file": "implants/vetwelding/straight-reconstruction-plate.json"
+ },
+ {
+  "id": "vetwelding/supracondylar-plate",
+  "name": "Supracondylar Plate",
+  "manufacturer": "VetWelding",
+  "family": "HyLock",
+  "variants": 2,
+  "file": "implants/vetwelding/supracondylar-plate.json"
+ },
+ {
+  "id": "vid/vid-pre-contoured-tplo-plates",
+  "name": "VID Pre-contoured TPLO Plates",
+  "manufacturer": "VID",
+  "family": null,
+  "variants": 4,
+  "file": "implants/vid/vid-pre-contoured-tplo-plates.json"
+ },
+ {
+  "id": "voi/1-5mm-cdt-compression-locking-plate",
+  "name": "1.5mm CDT Compression Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 7,
+  "file": "implants/voi/1-5mm-cdt-compression-locking-plate.json"
+ },
+ {
+  "id": "voi/2-0mm-cdt-compression-locking-plate",
+  "name": "2.0mm CDT Compression Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 9,
+  "file": "implants/voi/2-0mm-cdt-compression-locking-plate.json"
+ },
+ {
+  "id": "voi/2-0mm-dt-locking-plate",
+  "name": "2.0mm DT Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 11,
+  "file": "implants/voi/2-0mm-dt-locking-plate.json"
+ },
+ {
+  "id": "voi/2-4mm-cdt-compression-locking-plate",
+  "name": "2.4mm CDT Compression Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 9,
+  "file": "implants/voi/2-4mm-cdt-compression-locking-plate.json"
+ },
+ {
+  "id": "voi/2-4mm-countersink-compression-screw",
+  "name": "2.4mm Countersink Compression Screw",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 7,
+  "file": "implants/voi/2-4mm-countersink-compression-screw.json"
+ },
+ {
+  "id": "voi/2-4mm-dt-locking-plate",
+  "name": "2.4mm DT Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 13,
+  "file": "implants/voi/2-4mm-dt-locking-plate.json"
+ },
+ {
+  "id": "voi/2-7mm-cdt-compression-locking-plate",
+  "name": "2.7mm CDT Compression Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 10,
+  "file": "implants/voi/2-7mm-cdt-compression-locking-plate.json"
+ },
+ {
+  "id": "voi/2-7mm-dt-locking-plate",
+  "name": "2.7mm DT Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 13,
+  "file": "implants/voi/2-7mm-dt-locking-plate.json"
+ },
+ {
+  "id": "voi/3-0mm-countersink-compression-screw",
+  "name": "3.0mm Countersink Compression Screw",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 11,
+  "file": "implants/voi/3-0mm-countersink-compression-screw.json"
+ },
+ {
+  "id": "voi/3-5mm-broad-cdt-compression-locking-plate",
+  "name": "3.5mm Broad CDT Compression Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 14,
+  "file": "implants/voi/3-5mm-broad-cdt-compression-locking-plate.json"
+ },
+ {
+  "id": "voi/3-5mm-broad-dt-locking-plate",
+  "name": "3.5mm Broad DT Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 17,
+  "file": "implants/voi/3-5mm-broad-dt-locking-plate.json"
+ },
+ {
+  "id": "voi/3-5mm-dfo-plate",
+  "name": "3.5mm DFO Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 1,
+  "file": "implants/voi/3-5mm-dfo-plate.json"
+ },
+ {
+  "id": "voi/3-5mm-narrow-cdt-compression-locking-plate",
+  "name": "3.5mm Narrow CDT Compression Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 14,
+  "file": "implants/voi/3-5mm-narrow-cdt-compression-locking-plate.json"
+ },
+ {
+  "id": "voi/3-5mm-narrow-dt-locking-plate",
+  "name": "3.5mm Narrow DT Locking Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 15,
+  "file": "implants/voi/3-5mm-narrow-dt-locking-plate.json"
+ },
+ {
+  "id": "voi/4-5mm-countersink-compression-screw",
+  "name": "4.5mm Countersink Compression Screw",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 24,
+  "file": "implants/voi/4-5mm-countersink-compression-screw.json"
+ },
+ {
+  "id": "voi/biocurve-dt-locking-tplo",
+  "name": "BioCurve DT Locking TPLO",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 10,
+  "file": "implants/voi/biocurve-dt-locking-tplo.json"
+ },
+ {
+  "id": "voi/compresiv-dt-locking-tplo",
+  "name": "Compresiv DT Locking TPLO",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 10,
+  "file": "implants/voi/compresiv-dt-locking-tplo.json"
+ },
+ {
+  "id": "voi/dt-locking-pancarpal-arthrodesis-plates",
+  "name": "DT Locking Pancarpal Arthrodesis Plates",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 7,
+  "file": "implants/voi/dt-locking-pancarpal-arthrodesis-plates.json"
+ },
+ {
+  "id": "voi/elite-locking-tplo",
+  "name": "Elite Locking TPLO",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 10,
+  "file": "implants/voi/elite-locking-tplo.json"
+ },
+ {
+  "id": "voi/encora-3-5mm-cblo",
+  "name": "EnCORA 3.5mm CBLO",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 3,
+  "file": "implants/voi/encora-3-5mm-cblo.json"
+ },
+ {
+  "id": "voi/locking-cblo-plate",
+  "name": "Locking CBLO Plate",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 6,
+  "file": "implants/voi/locking-cblo-plate.json"
+ },
+ {
+  "id": "voi/nxt-locking-tplo",
+  "name": "NXT Locking TPLO",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 9,
+  "file": "implants/voi/nxt-locking-tplo.json"
+ },
+ {
+  "id": "voi/tta-plates-forkless",
+  "name": "TTA Plates - forkless",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 6,
+  "file": "implants/voi/tta-plates-forkless.json"
+ },
+ {
+  "id": "voi/versiv-tplo",
+  "name": "Versiv TPLO",
+  "manufacturer": "VOI",
+  "family": null,
+  "variants": 10,
+  "file": "implants/voi/versiv-tplo.json"
+ },
+ {
+  "id": "voi/voi-adaptiv-tplo-m-offset-plate-dt-locking",
+  "name": "VOI Adaptiv TPLO-M Offset Plate, DT Locking",
+  "manufacturer": "VOI",
+  "family": "Adaptiv Plate",
+  "variants": 24,
+  "file": "implants/voi/voi-adaptiv-tplo-m-offset-plate-dt-locking.json"
+ },
+ {
+  "id": "voi/voi-distal-femoral-osteotomy-dfo-plate-dt-locking",
+  "name": "VOI Distal Femoral Osteotomy DFO Plate, DT Locking",
+  "manufacturer": "VOI",
+  "family": "DFO Plate",
+  "variants": 12,
+  "file": "implants/voi/voi-distal-femoral-osteotomy-dfo-plate-dt-locking.json"
+ }
+]
